@@ -1,0 +1,57 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">{{ site.name }}</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#services">
+                        {{ site.data.t.nav.services[page.lang] }}
+                    </a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#team">
+                        {{ site.data.t.nav.team[page.lang] }}
+                    </a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">
+                        {{ site.data.t.nav.contact[page.lang] }}
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<header>
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-lead-in">{{ site.data.t.header.intro-lead-in[page.lang] }}</div>
+            <div class="intro-heading">{{ site.data.t.header.intro-heading[page.lang] }}</div>
+            <a href="#services" class="page-scroll btn btn-xl">
+                {{ site.data.t.header.intro-button[page.lang] }}
+            </a>
+            <div class="intro-languages">
+                {% for language in site.languages %}
+                    <a href="{{ path | prepend: language[0] | prepend: '/' }}"
+                       title="{{ language[1] }}"
+                       class="{% if language[0] == page.lang %}active{% endif %}">{{ language[0] | upcase }}</a>
+                    {% unless forloop.last %}·{% endunless %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</header>

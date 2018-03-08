@@ -1,0 +1,46 @@
+# Base.
+timezone: Europe/Madrid
+markdown: kramdown
+permalink: pretty
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+plugins:
+  - jekyll-sass-converter
+  - jekyll-sitemap
+
+# General.
+name: 99languages
+title:
+  en: 99languages
+  de: 99languages
+  es: 99languages
+  gl: 99languages
+description:
+  en: Quality translation and editing services
+  de: Hochwertige Übersetzungs- und Korrekturdienstleistungen
+  es: Servicios de traducción y corrección de calidad
+  gl: Servizos de tradución e corrección de calidade
+url: http://99languages.es
+email: info@99languages.es
+twitter: '@99languages'
+phone: '+34657278290'
+phone_formatted: '+34 657 278 290'
+skype: skype@99languages.es
+google_site_verification: ...
+google_analytics: ...
+
+# Languages.
+default_language: en
+languages:
+  en: English
+#  de: Deutsch
+  es: Español
+#  gl: Galego
+
+# SASS.
+sass:
+  style: :compressed
+  sass_dir: _sass

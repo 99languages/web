@@ -1,0 +1,64 @@
+<head>
+    {%- capture title %}{% if page.title %}{{ page.title[page.lang] }}{% else %}{{ site.title[page.lang] }}{% endif %}{%- endcapture %}
+    {%- capture description %}{% if page.description %}{{ page.description[page.lang] }}{% else %}{{ site.description[page.lang] }}{% endif %}{%- endcapture %}
+    {%- if page.base %}
+        {% capture path %}{{ page.url | replace:'index.html','' }}{% endcapture %}
+    {%- else %}
+        {% capture path %}{{ page.url | replace:'index.html','' | replace_first:'/','' | replace_first:page.lang,'' }}{%- endcapture %}
+    {%- endif %}
+    {%- capture canonical %}{{ path | prepend: page.lang | prepend: '/' | prepend: site.url }}{%- endcapture %}
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>{{ title }}</title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="{{ description }}" />
+
+    <link rel="canonical" href="{{ canonical }}" />
+    {%- for language in site.languages %}
+        {%- if language[0] != page.lang %}
+            <link rel="alternate" hreflang="{{ language[0] }}" href="{{ path | prepend: language[0] | prepend: '/' | prepend: site.url }}" />
+        {%- endif %}
+    {%- endfor %}
+
+    <meta property="og:locale" content="{{ page.lang }}" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta name="description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:url" content="{{ canonical }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="{{ site.twitter }}" />
+    <meta name="twitter:creator" content="{{ site.twitter }}" />
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+
+    {% if page.base %}
+        <script>
+        (function(window, document, undefined) {
+          var language = navigator.language || navigator.userLanguage || {{ site.default_language | jsonify }};
+          language = language.toLowerCase().substr(0, 2);
+          {%- for language in site.languages %}
+          if (language == {{ language[0] | jsonify }}) {
+            window.location.href = {{ path | prepend: language[0] | prepend: '/' | jsonify}};
+            return;
+          }
+          {%- endfor %}
+          window.location.href = {{ path | prepend: site.default_language | prepend: '/' | jsonify}};
+        })(window, document);
+        </script>
+    {%- endif %}
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}" />
+    <link rel="stylesheet" href="{{ "/assets/javascript/cookieconsent/cookieconsent.min.css" | prepend: site.baseurl }}" />
+
+    <!--[if lt IE 9]>
+        <script src="{{ "/assets/javascript/html5shiv.js" | prepend: site.baseurl }}"></script>
+        <script src="{{ "/assets/javascript/respond.min.js" | prepend: site.baseurl }}"></script>
+    <![endif]-->
+</head>

@@ -1,0 +1,321 @@
+nav:
+  services:
+    en: Services
+    de: Dienstleistungen
+    es: Servicios
+    gl: Servizos
+  team:
+    en: Team
+    de: Team
+    es: Equipo
+    gl: Equipo
+  contact:
+    en: Contact
+    de: Kontakt
+    es: Contacto
+    gl: Contacto
+
+header:
+  intro-lead-in:
+    en: Welcome to 99languages
+    de: Willkommen auf 99languages
+    es: Bienvenido a 99languages
+    gl: Benvido a 99languages
+  intro-heading:
+    en: Taking your words further
+    de:
+    es: Llevamos tus palabras más lejos
+    gl:
+  intro-button:
+    en: How can we help you?
+    de: Wie können wir Ihnen helfen?
+    es: ¿En qué podemos ayudarte?
+    gl: En que podemos axudarte?
+
+services:
+  section-heading:
+    en: Our services
+    de:
+    es: Servicios
+    gl:
+  section-subheading:
+    en: >-
+      We translate and localise from <strong>English, German, Spanish and
+      Galician into Spanish and Galician</strong>. We also edit and
+      proofread Spanish and Galician texts.
+    de:
+    es: >-
+      Traducimos y localizamos de  <strong>inglés, alemán, español y gallego a
+      español y gallego</strong>. También revisamos textos en español y castellano.
+    gl:
+  service1:
+    heading:
+      en: Translation & Localisation
+      de:
+      es: Traducción y localización
+      gl:
+    paragraph1:
+      en: >-
+        We have experience in different specialisation fields and use
+        professional tools to achieve a high degree of consistency and
+        quality in our works.
+      de:
+      es: >-
+        Tenemos experiencia en distintos campos de especialización y
+        utilizamos herramientas profesionales para conseguir estándares
+        elevados de consistencia y calidad en nuestros trabajos.
+      gl:
+    paragraph2:
+      en: >-
+        We translate texts in the following fields: <strong>tools</strong>,
+        automotive, machinery, <strong>automation technology</strong> and
+        electronics, tourism, mechanical engineering, <strong>IT</strong>,
+        telecommunications, <strong>software</strong>, <strong>packaging</strong>
+        technology, household <strong>appliances</strong>, paper industry,
+        textile industry, <strong>medical equipment</strong>, web and software
+        localisation and much more.
+      de:
+      es: >-
+        Traducimos textos de los siguientes campos: <strong>herramientas</strong>,
+        automoción, maquinaria, tecnología de la <strong>automatización</strong>
+        y electrónica,  turismo, <strong>ingeniería</strong> mecánica,
+        <strong>informática</strong> (IT), telecomunicaciones, <strong>software
+        </strong>, tecnología de empaquetado, <strong>electrodomésticos</strong>,
+        industria del papel, industria textil, <strong>aparatología médica</strong>,
+        <strong>localización</strong> de páginas <strong>web</strong> y de software,
+        y mucho más.
+      gl:
+    paragraph3:
+      en: >-
+        <u>Textual genres</u>: instructions <strong>manuals</strong>, catalogues,
+        <strong>specifications</strong>, service and maintenance documentation,
+        <strong>training</strong> materials, <strong>leaflets</strong>,
+        <strong>advertising</strong>, software interfaces, apps, websites.
+      de:
+      es: >-
+        <u>Géneros textuales</u>: manuales de <strong>instrucciones</strong>,
+        catálogos, <strong>especificaciones</strong>, documentación del producto
+        y de su mantenimiento, materiales para <strong>formación</strong>,
+        folletos, publicidad, <strong>interfaces de software</strong>,
+        aplicaciones o apps, <strong>páginas web</strong>.
+      gl:
+  service2:
+    heading:
+      en: Revision
+      de:
+      es: Revisión
+      gl:
+    paragraph1:
+      en: >-
+        Poor writing, in any form, can harm your image. We make sure no errors
+        are present so your documents communicate exactly what you want to tell.
+      de:
+      es: >-
+        Un texto con incorrecciones o faltas puede perjudicar tu imagen. Nos
+        aseguramos de que no haya errores en tus documentos para que estos
+        comuniquen lo que quieres de manera precisa.
+      gl:
+    paragraph2:
+      en: >-
+        We provide with <strong>editing</strong> and <strong>proofreading</strong>
+        services. We can also perform a <strong>linguistic sign-off</strong> (LSO)
+        of your publication's layout to ensure lack of errors in this stage.
+      de:
+      es: >-
+        Ofrecemos servicios de <strong>revisión</strong>, monolingüe y bilingüe,
+        y de <strong>corrección</strong> de estilo y ortotipografía. También
+        hacemos LSO (<strong>linguistic sign-off</strong>) de tus documentos para
+        asegurarnos de que no han surgido problemas tras la maquetación.
+      gl:
+  service3:
+    heading:
+      en: Audio & Video Transcription
+      de:
+      es: Transcripción de audio y vídeo
+      gl:
+    paragraph1:
+      en: >-
+        If you have a digital audio or video recording you wish to have in text
+        format or translated, we can transcribe it for you. We adapt to your needs,
+        whether it is a literal transcription or a natural one. Tell us what you
+        need.
+      de:
+      es: >-
+        Si tienes una grabación de audio o un vídeo y quieres disponer del texto
+        para almacenarlo o traducirlo a otros idiomas, te lo transcribimos. Nos
+        adaptamos a tus necesidades y te ofrecemos tanto transcripciones literales
+        como naturales. Dinos qué necesitas.
+      gl:
+    paragraph2:
+      en: >-
+        <u>Audio or audiovisual genres</u>: <strong>interviews</strong>, speeches,
+        dialogues, <strong>training</strong>, lectures, presentations,
+        <strong>advertising</strong>.
+      de:
+      es: >-
+        <u>Géneros de audio y audiovisuales</u>: <strong>entrevistas</strong>,
+        discursos, diálogos, <strong>formación</strong>, presentaciones,
+        conferencias, <strong>publicidad</strong>.
+      gl:
+  contact:
+    en: >-
+      <a href="#contact" class="page-scroll">Contact us</a> for financial translations
+      (banking, investment…) or others, or if you seek further language pairs. We will
+      be happy to assist you.
+    de:
+    es: >-
+      <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si
+      necesitas traducciones financieras (banca, inversión…) u otra modalidad, o si
+      necesitas traducciones a otros idiomas. Estaremos encantados de ayudarte.
+    gl:
+
+team:
+  section-heading:
+    en: The team
+    de:
+    es:
+    gl:
+  section-subheading:
+    en: >-
+      We are professionals with a strong commitment towards quality and meeting
+      deadlines. And most of all, we like to meet client's expectations.
+    de:
+    es:
+    gl:
+  cristian:
+      headline:
+        en: Freelance translator and proofreader ❖ Founder of 99languages
+        de:
+        es:
+        gl:
+      paragraph1:
+        en: >-
+          I'm a translation professional with a wide experience with technical
+          texts. I'm a team player and pay attention to detail in everything I
+          do. I work with English and German documentation and translate it
+          into my mother tongues, Spanish and Galician. Check out
+          <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">my LinkedIn profile</a>
+          for further information.
+        de:
+        es:
+        gl:
+  contact:
+    en: >-
+      Want to know more about us? Don't hesitate to <a href="#contact"
+      class="page-scroll">contact us</a> if you have any question or need a quote.
+    de:
+    es:
+    gl:
+
+contact:
+  section-heading:
+    en: Contact us
+    de:
+    es: Contacto
+    gl:
+  section-subheading:
+    en: >-
+      If you have any question or need a quote, don't hesitate to contact us
+      via phone, e-mail or using the form below.
+    de:
+    es: >-
+      Si tienes alguna duda o necesitas que te hagamos presupuesto, no dudes
+      en ponerte en contacto con nosotros por teléfono, correo electrónico o
+      escribiéndonos en el siguiente formulario.
+    gl:
+  form:
+    name:
+      placeholder:
+        en: Your name
+        de:
+        es: Nombre y apellidos
+        gl:
+      validation-required:
+        en: Please enter your name
+        de:
+        es: Introduce el nombre y los apellidos
+        gl:
+    email:
+      placeholder:
+        en: Your e-mail address
+        de:
+        es: Dirección de correo electrónico
+        gl:
+      validation-required:
+        en: Please enter your e-mail address
+        de:
+        es: Introduce tu dirección de correo electrónico
+        gl:
+      validation-validemail:
+        en: This is not a valid e-mail address
+        de:
+        es: Esta no es una dirección de correo válida
+        gl:
+    phone:
+      placeholder:
+        en: Your phone number
+        de:
+        es: Número de teléfono
+        gl:
+      validation-required:
+        en: Please enter your phone number
+        de:
+        es: Introduce el número de teléfono
+        gl:
+    message:
+      placeholder:
+        en: Your message
+        de:
+        es: Mensaje
+        gl:
+      validation-required:
+        en: Please enter a message
+        de:
+        es: Escribe el mensaje
+        gl:
+    send:
+      en: Send message
+      de:
+      es: Enviar mensaje
+      gl:
+    success:
+      en: >-
+        Your message has been sent. We'll get back to you as soon as posssible.
+        Thanks!
+      de:
+      es: >-
+        Mensaje enviado. Nos pondremos en contacto contigo lo antes posible.
+        ¡Gracias!
+      gl:
+    error:
+      en: >-
+        Sorry, it seems the server is not responding. Please try again later
+        or send us an e-mail to <strong>info@99languages.es</strong>.
+      de:
+      es: >-
+        Lo sentimos, pero parece que el servidor no responde. Vuelve a
+        intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
+      gl:
+
+cookieconsent:
+  message:
+    en: >-
+      This website uses cookies to ensure you get the best experience. By
+      continuing to browse the site you are agreeing to our use of cookies.
+    de: >-
+      Auf dieser Website werden Cookies eingesetzt, um Ihnen das beste
+      Erlebnis zu bieten. Sollten Sie den Besuch fortsetzen, dann stimmen
+      Sie zu, dass wir die sogenannten Cookies verwenden.
+    es: >-
+      Este sitio web utiliza <i>cookies</i> para garantizar la mejor experiencia
+      posible. Si continúas navegando, estarás aceptando implícitamente que
+      hagamos uso de las <i>cookies</i>.
+    gl: >-
+      Este sitio web utiliza <i>cookies</i> para garantir a mellor experiencia
+      posible. De continuar navegando, estarás aceptando implicitamente que
+      fagamos uso das <i>cookies</i>.
+  dismiss:
+    en: Got it!
+    de: Einverstanden!
+    es: De acuerdo
+    gl: De acordo

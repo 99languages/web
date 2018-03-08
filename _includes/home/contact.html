@@ -1,0 +1,113 @@
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-offset-2 col-lg-8 text-center">
+                <h2 class="section-heading">
+                    {{ site.data.t.contact.section-heading[page.lang] }}
+                </h2>
+                <h3 class="section-subheading text-muted">
+                    {{ site.data.t.contact.section-subheading[page.lang] }}
+                </h3>
+            </div>
+        </div>
+
+        <div class="row text-center contact-channels">
+            <a href="mailto:{{ site.email }}">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <p class="contact-channel">
+                        {{ site.email }}
+                    </p>
+                </div>
+            </a>
+            <a href="tel:{{ site.phone }}">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <p class="contact-channel">
+                        {{ site.phone_formatted }}
+                    </p>
+                </div>
+            </a>
+            <a href="skype:{{ site.skype }}?call">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fab fa-skype fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <p class="contact-channel">
+                        {{ site.skype }}
+                    </p>
+                </div>
+            </a>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <form name="sent-message"
+                      id="contact-form"
+                      novalidate
+                      data-success-message="{{ site.data.t.contact.form.success[page.lang] }}"
+                      data-error-message="{{ site.data.t.contact.form.error[page.lang] }}">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="control-group form-group">
+                                <input type="text"
+                                       class="form-control"
+                                       placeholder="{{ site.data.t.contact.form.name.placeholder[page.lang] }} *"
+                                       name="name"
+                                       id="name"
+                                       required
+                                       data-validation-required-message="{{ site.data.t.contact.form.name.validation-required[page.lang] }}">
+                                <p class="help-block text-danger">&nbsp;</p>
+                            </div>
+                            <div class="control-group form-group">
+                                <input type="email"
+                                       class="form-control"
+                                       placeholder="{{ site.data.t.contact.form.email.placeholder[page.lang] }} *"
+                                       name="email" id="email"
+                                       required
+                                       data-validation-required-message="{{ site.data.t.contact.form.email.validation-required[page.lang] }}"
+                                       data-validation-validemail-message="{{ site.data.t.contact.form.email.validation-validemail[page.lang] }}">
+                                <p class="help-block text-danger">&nbsp;</p>
+                            </div>
+                            <div class="control-group form-group">
+                                <input type="tel"
+                                       class="form-control"
+                                       placeholder="{{ site.data.t.contact.form.phone.placeholder[page.lang] }} *"
+                                       name="phone"
+                                       id="phone"
+                                       required
+                                       data-validation-required-message="{{ site.data.t.contact.form.phone.validation-required[page.lang] }}">
+                                <p class="help-block text-danger">&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="control-group form-group">
+                                <textarea class="form-control"
+                                          placeholder="{{ site.data.t.contact.form.message.placeholder[page.lang] }} *"
+                                          name="message"
+                                          id="message"
+                                          required
+                                          data-validation-required-message="{{ site.data.t.contact.form.message.validation-required[page.lang] }}"></textarea>
+                                <p class="help-block text-danger">&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="col-lg-12 text-center">
+                            <div id="success"></div>
+                            <button type="submit" class="btn btn-xl">
+                                <i class="fab fa-telegram-plane"></i> {{ site.data.t.contact.form.send[page.lang] }}
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
