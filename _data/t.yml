@@ -97,7 +97,7 @@ services:
         catálogos, <strong>especificaciones</strong>, documentación del producto
         y de su mantenimiento, materiales para <strong>formación</strong>,
         folletos, publicidad, <strong>interfaces de software</strong>,
-        aplicaciones o apps, <strong>páginas web</strong>.
+        aplicaciones o <i>apps</i>, <strong>páginas web</strong>.
       gl:
   service2:
     heading:
