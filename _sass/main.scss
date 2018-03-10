@@ -266,18 +266,25 @@ body {
     background-color: #222;
 
     .navbar-brand {
-        font-family: "Kreon","Helvetica Neue",Helvetica,Arial,cursive;
-        font-size: 2.5em;
-        color: $color-primary;
-        font-weight: bold;
-        text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+        padding: 0px 15px 20px;
+        h1 {
+            text-transform: none;
+            margin: 0px;
+            font-family: "Kreon","Helvetica Neue",Helvetica,Arial,cursive;
+            font-size: 2.3em;
+            color: $color-primary;
+            font-weight: bold;
+            text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+        }
     }
 
     .navbar-brand:hover,
     .navbar-brand:focus,
     .navbar-brand:active,
     .navbar-brand.active {
-        color: $color-secondary;
+        h1 {
+            color: $color-secondary;
+        }
     }
 
     .navbar-collapse {
@@ -339,10 +346,12 @@ body {
         transition: padding .3s;
 
         .navbar-brand {
-            font-size: 4em;
-            -webkit-transition: all .3s;
-            -moz-transition: all .3s;
-            transition: all .3s;
+            h1 {
+                font-size: 3.2em;
+                -webkit-transition: all .3s;
+                -moz-transition: all .3s;
+                transition: all .3s;
+            }
         }
 
         .navbar-nav>.active>a {
@@ -353,7 +362,9 @@ body {
             padding: 10px 0;
             background-color: #222;
             .navbar-brand {
-                font-size: 3.5em;
+                h1 {
+                    font-size: 2.5em;
+                }
             }
         }
     }
@@ -387,13 +398,11 @@ header {
         }
         .intro-heading {
             margin-bottom: 25px;
-            h1 {
-                text-transform: uppercase;
-                font-family: $font-primary;
-                font-size: 35px;
-                font-weight: 700;
-                line-height: 50px;
-            }
+            text-transform: uppercase;
+            font-family: $font-primary;
+            font-size: 35px;
+            font-weight: 700;
+            line-height: 50px;
         }
         .intro-languages {
             margin-top: 25px;
@@ -432,13 +441,11 @@ header {
             }
             .intro-heading {
                 margin-bottom: 75px;
-                h1 {
-                    text-transform: uppercase;
-                    font-family: $font-primary;
-                    font-size: 45px;
-                    font-weight: 700;
-                    line-height: 75px;
-                }
+                text-transform: uppercase;
+                font-family: $font-primary;
+                font-size: 45px;
+                font-weight: 700;
+                line-height: 75px;
             }
             .intro-languages {
                 margin-top: 100px;
