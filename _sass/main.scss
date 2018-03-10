@@ -387,11 +387,13 @@ header {
         }
         .intro-heading {
             margin-bottom: 25px;
-            text-transform: uppercase;
-            font-family: $font-primary;
-            font-size: 35px;
-            font-weight: 700;
-            line-height: 50px;
+            h1 {
+                text-transform: uppercase;
+                font-family: $font-primary;
+                font-size: 35px;
+                font-weight: 700;
+                line-height: 50px;
+            }
         }
         .intro-languages {
             margin-top: 25px;
@@ -430,11 +432,13 @@ header {
             }
             .intro-heading {
                 margin-bottom: 75px;
-                text-transform: uppercase;
-                font-family: $font-primary;
-                font-size: 45px;
-                font-weight: 700;
-                line-height: 75px;
+                h1 {
+                    text-transform: uppercase;
+                    font-family: $font-primary;
+                    font-size: 45px;
+                    font-weight: 700;
+                    line-height: 75px;
+                }
             }
             .intro-languages {
                 margin-top: 100px;
