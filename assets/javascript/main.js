@@ -36,7 +36,7 @@ $(document).ready(function() {
       var message = $('#contact textarea#message').val();
 
       $.ajax({
-        url: 'https://script.google.com/macros/s/AKfycbztHnYQ7EzO77N0kb53XPRVs1UFlc7CGBnHWmtqt08znSgkPiI/exec',
+        url: 'https://script.google.com/macros/s/AKfycbx9yGLVg80etLvlPrgRRasRDTK-_Hok507SC6vC6LdkBz_Qc_9d/exec',
         type: 'GET',
         data: {
           name: name,

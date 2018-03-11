@@ -8,8 +8,8 @@ function doGet(e) {
   return handleResponse(e);
 }
 
-var SHEET_NAME = 'Hoja 1';
-var RECIPIENTS = 'cristian.marcote.lobelos@gmail.com';
+var SHEET_NAME = 'submissions';
+var RECIPIENTS = 'info@99languages.es';
 
 var SCRIPT_PROP = PropertiesService.getScriptProperties();
 
