@@ -25,19 +25,19 @@ header:
     en: Taking your words further
     de:
     es: Llevamos tus palabras más lejos
-    gl:
+    gl: Levamos as túas palabras máis lonxe
   intro-button:
     en: How can we help you?
     de: Wie können wir Ihnen helfen?
-    es: ¿En qué podemos ayudarte?
-    gl: En que podemos axudarte?
+    es: ¿Cómo podemos ayudarte?
+    gl: Como podemos axudarte?
 
 services:
   section-heading:
     en: Our services
     de:
     es: Servicios
-    gl:
+    gl: Servizos
   section-subheading:
     en: >-
       We translate and localise from <strong>English, German, Spanish and
@@ -47,13 +47,15 @@ services:
     es: >-
       Traducimos y localizamos de  <strong>inglés, alemán, español y gallego a
       español y gallego</strong>. También revisamos textos en español y castellano.
-    gl:
+    gl: >-
+      Traducimos e localizamos desde <strong>inglés, alemán, castelán e galego a castelán e galego</strong>.
+      Tamén revisamos textos en castelán e galego.
   service1:
     heading:
       en: Translation & Localisation
       de:
       es: Traducción y localización
-      gl:
+      gl: Tradución e localización
     paragraph1:
       en: >-
         We have experience in different specialisation fields and use
@@ -64,7 +66,10 @@ services:
         Tenemos experiencia en distintos campos de especialización y
         utilizamos herramientas profesionales para conseguir estándares
         elevados de consistencia y calidad en nuestros trabajos.
-      gl:
+      gl: >-
+        Temos experiencia en diferentes ámbitos de especialización e
+        utilizamos ferramentas profesionais para acadar estándares
+        elevados de consistencia e calidade nos nosos traballos.
     paragraph2:
       en: >-
         We translate texts in the following fields: <strong>tools</strong>,
@@ -84,7 +89,14 @@ services:
         industria del papel, industria textil, <strong>aparatología médica</strong>,
         <strong>localización</strong> de páginas <strong>web</strong> y de software,
         y mucho más.
-      gl:
+      gl: >-
+        Traducimos textos dos seguintes campos: <strong>ferramentas</strong>,
+        automoción, maquinaria, tecnoloxía da <strong>automatización</strong>
+        e electrónica, turismo, <strong>enxeñería</strong> mecánica,
+        <strong>informática</strong> (IT), telecomunicacións, <strong>software</strong>,
+        tecnoloxía de empaquetado, <strong>electrodomésticos</strong>, industria do papel,
+        industria téxtil, <strong>equipamento médico</strong>, <strong>localización</strong>
+        de páxinas <strong>web</strong> e software, e moito máis.
     paragraph3:
       en: >-
         <u>Textual genres</u>: instructions <strong>manuals</strong>, catalogues,
@@ -97,14 +109,19 @@ services:
         catálogos, <strong>especificaciones</strong>, documentación del producto
         y de su mantenimiento, materiales para <strong>formación</strong>,
         folletos, publicidad, <strong>interfaces de software</strong>,
-        aplicaciones o <i>apps</i>, <strong>páginas web</strong>.
-      gl:
+        aplicaciones (<i>apps</i>), <strong>páginas web</strong>.
+      gl: >-
+        <u>Xéneros textuais</u>: manuais de <strong>instrucións</strong>,
+        catálogos, <strong>especificacións</strong>, documentación do produto
+        e de mantemento, materiais <strong>formativos</strong>, folletos,
+        publicidade, <strong>interfaces de software</strong>,
+        aplicacións (<i>apps</i>), <strong>páxinas web</strong>.
   service2:
     heading:
       en: Revision
       de:
       es: Revisión
-      gl:
+      gl: Revisión
     paragraph1:
       en: >-
         Poor writing, in any form, can harm your image. We make sure no errors
@@ -114,7 +131,10 @@ services:
         Un texto con incorrecciones o faltas puede perjudicar tu imagen. Nos
         aseguramos de que no haya errores en tus documentos para que estos
         comuniquen lo que quieres de manera precisa.
-      gl:
+      gl: >-
+        Un texto con incorreccións ou faltas pode prexudicar a túa imaxe.
+        Asegurámonos de que non haxa erros nos teus documentos para que estes
+        comuniquen o que queres de xeito preciso.
     paragraph2:
       en: >-
         We provide with <strong>editing</strong> and <strong>proofreading</strong>
@@ -122,17 +142,19 @@ services:
         of your publication's layout to ensure lack of errors in this stage.
       de:
       es: >-
-        Ofrecemos servicios de <strong>revisión</strong>, monolingüe y bilingüe,
-        y de <strong>corrección</strong> de estilo y ortotipografía. También
-        hacemos LSO (<strong>linguistic sign-off</strong>) de tus documentos para
-        asegurarnos de que no han surgido problemas tras la maquetación.
-      gl:
+        Ofrecemos servicios de <strong>revisión</strong> y de <strong>corrección</strong>
+        de estilo y ortotipografía. También hacemos LSO (<strong>linguistic sign-off</strong>)
+        de tus documentos para asegurarnos de que no han surgido problemas tras la maquetación.
+      gl: >-
+        Ofrecemos servizos de <strong>revisión</strong> e de <strong>corrección</strong>
+        de estilo e ortotipografía. Tamén nos ocupamos de facer <strong>linguistic sign-off</strong>
+        (LSO) dos teus documentos para asegurarnos de que non xurdiron problemas tras a maquetación.
   service3:
     heading:
       en: Audio & Video Transcription
       de:
       es: Transcripción de audio y vídeo
-      gl:
+      gl: Transcrición de son e vídeo
     paragraph1:
       en: >-
         If you have a digital audio or video recording you wish to have in text
@@ -145,7 +167,11 @@ services:
         para almacenarlo o traducirlo a otros idiomas, te lo transcribimos. Nos
         adaptamos a tus necesidades y te ofrecemos tanto transcripciones literales
         como naturales. Dinos qué necesitas.
-      gl:
+      gl: >-
+        Se tes unha gravación de son ou un vídeo e queres dispoñer do texto
+        para almacenalo ou traducilo a outros idiomas, transcribímoscho. Adaptámonos
+        ás túas necesidades e ofrecémosche tanto transcricións literais como naturais.
+        Dinos que precisas.
     paragraph2:
       en: >-
         <u>Audio or audiovisual genres</u>: <strong>interviews</strong>, speeches,
@@ -156,7 +182,11 @@ services:
         <u>Géneros de audio y audiovisuales</u>: <strong>entrevistas</strong>,
         discursos, diálogos, <strong>formación</strong>, presentaciones,
         conferencias, <strong>publicidad</strong>.
-      gl:
+      gl: >-
+        <u>Xéneros de son e audiovisuais</u>: <strong>entrevistas</strong>,
+        discursos, diálogos, <strong>formación</strong>, presentacións,
+        conferencias, <strong>publicidade</strong>.
+        
   contact:
     en: >-
       <a href="#contact" class="page-scroll">Contact us</a> for financial translations
@@ -165,29 +195,37 @@ services:
     de:
     es: >-
       <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si
-      necesitas traducciones financieras (banca, inversión…) u otra modalidad, o si
+      necesitas traducciones financieras (banca, inversión…) u de otra modalidad, o si
       necesitas traducciones a otros idiomas. Estaremos encantados de ayudarte.
-    gl:
+    gl: >-
+      <a href="#contact" class="page-scroll">Ponte en contacto</a> connosco se precisas
+      traducións financeiras (banca, investimento…) ou doutra modalidade, ou se necesitas
+      traducións a outras linguas. Estaremos encantados de axudarte.
 
 team:
   section-heading:
     en: The team
-    de:
-    es:
-    gl:
+    de: Team
+    es: Equipo
+    gl: Equipo
   section-subheading:
     en: >-
       We are professionals with a strong commitment towards quality and meeting
       deadlines. And most of all, we like to meet client's expectations.
     de:
-    es:
-    gl:
+    es: >-
+      Somos profesionales altamente comprometidos con la calidad y el cumplimiento
+      de plazos. Queremos, por encima de todo, satisfacer las expectativas del cliente.
+    gl: >-
+      Somos profesionais altamente comprometidos coa calidade e o cumprimento
+      dos prazos. Queremos, por enriba de todo, satisfacer as expectativas do cliente.
   cristian:
       headline:
         en: Freelance translator and proofreader ❖ Founder of 99languages
         de:
-        es:
-        gl:
+        es: Traductor y revisor autónomo ❖ Creador de 99languages
+        gl: Tradutor e revisor autónomo ❖ Creador de 99languages
+
       paragraph1:
         en: >-
           I'm a translation professional with a wide experience with technical
@@ -195,24 +233,40 @@ team:
           do. I work with English and German documentation and translate it
           into my mother tongues, Spanish and Galician. Check out
           <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">my LinkedIn profile</a>
-          for further information.
+          for further references.
         de:
-        es:
-        gl:
+        es: >-
+          Soy un profesional de la traducción con una amplia experiencia en textos técnicos.
+          Me encanta trabajar en equipo y pongo especial atención al detalle en todo lo que hago.
+          Trabajo con documentación en inglés y alemán, que traduzco a mis lenguas maternas,
+          el castellano y el gallego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
+          target="blank_">mi perfil en LinkedIn</a> para obtener más referencias.
+        gl: >-
+          Son un profesional da tradución cunha ampla experiencia en textos técnicos.
+          Encántame traballar en equipo e presto especial atención ao detalle en todo o que fago.
+          Traballo con documentación en inglés e alemán, que traduzo ás miñas linguas maternas,
+          o castelán e o galego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
+          target="blank_">o meu perfil en LinkedIn</a> para para obter máis referencias.
   contact:
     en: >-
       Want to know more about us? Don't hesitate to <a href="#contact"
       class="page-scroll">contact us</a> if you have any question or need a quote.
     de:
-    es:
-    gl:
+    es: >-
+      ¿Quieres saber más sobre nosotros? No dudes en <a href="#contact"
+      class="page-scroll">ponerte en contacto</a> con nosotros si tienes
+      alguna duda o necesitas presupuesto.
+    gl: >-
+      ¿Queres saber máis sobre nós? Non dubides en <a href="#contact"
+      class="page-scroll">poñerte en contacto</a> connosco se tes
+      algunha dúbida ou precisas orzamento.
 
 contact:
   section-heading:
     en: Contact us
     de:
     es: Contacto
-    gl:
+    gl: Contacto
   section-subheading:
     en: >-
       If you have any question or need a quote, don't hesitate to contact us
@@ -222,62 +276,65 @@ contact:
       Si tienes alguna duda o necesitas que te hagamos presupuesto, no dudes
       en ponerte en contacto con nosotros por teléfono, correo electrónico o
       escribiéndonos en el siguiente formulario.
-    gl:
+    gl: >-
+      Se tes algunha dúbida ou precisas que che presentemos un orzamento, non dubides
+      en poñerte en contacto connosco por teléfono, correo electrónico ou escribíndonos 
+      mediante o formulario seguinte.
   form:
     name:
       placeholder:
         en: Your name
-        de:
+        de: 
         es: Nombre y apellidos
-        gl:
+        gl: Nome e apelidos
       validation-required:
         en: Please enter your name
         de:
         es: Introduce el nombre y los apellidos
-        gl:
+        gl: Introduce o nome e os apelidos
     email:
       placeholder:
         en: Your e-mail address
         de:
         es: Dirección de correo electrónico
-        gl:
+        gl: Enderezo de correo electrónico
       validation-required:
         en: Please enter your e-mail address
         de:
         es: Introduce tu dirección de correo electrónico
-        gl:
+        gl: Introduce o teu enderezo de correo electrónico
       validation-validemail:
         en: This is not a valid e-mail address
         de:
         es: Esta no es una dirección de correo válida
-        gl:
+        gl: Este non é un enderezo de correo electrónico válido
     phone:
       placeholder:
         en: Your phone number
-        de:
+        de: 
         es: Número de teléfono
-        gl:
+        gl: Número de teléfono
       validation-required:
         en: Please enter your phone number
         de:
         es: Introduce el número de teléfono
-        gl:
+        gl: Introduce o número de teléfono
     message:
       placeholder:
         en: Your message
         de:
         es: Mensaje
-        gl:
+        gl: Mensaxe
       validation-required:
         en: Please enter a message
         de:
         es: Escribe el mensaje
-        gl:
+        gl: Escribe a mensaxe
     send:
       en: Send message
       de:
       es: Enviar mensaje
-      gl:
+      gl: Enviar mensaxe
     success:
       en: >-
         Your message has been sent. We'll get back to you as soon as posssible.
@@ -295,7 +352,9 @@ contact:
       es: >-
         Lo sentimos, pero parece que el servidor no responde. Vuelve a
         intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
-      gl:
+      gl: >-
+        Sentímolo, mais semella que o servidor non responde. Volve intentalo
+        máis tarde ou escríbenos a <strong>info@99languages.es</strong>.
 
 cookieconsent:
   message:
