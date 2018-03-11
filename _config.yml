@@ -14,26 +14,49 @@ plugins:
 # General.
 name: 99languages
 title:
-  en: '99languages: quality translation and editing services'
-  de: '99languages: hochwertige Übersetzungs- und Korrekturdienstleistungen'
-  es: '99languages: servicios de traducción y corrección de calidad'
-  gl: '99languages: servizos de tradución e corrección de calidade'
+  en: '99languages: translation and editing services'
+  de: '99languages: Übersetzungs- und Korrekturdienstleistungen'
+  es: '99languages: servicios de traducción y revisión'
+  gl: '99languages: servizos de tradución e revisión'
 description:
-  en: Quality translation and editing services
-  de: Hochwertige Übersetzungs- und Korrekturdienstleistungen
-  es: Servicios de traducción y corrección de calidad
-  gl: Servizos de tradución e corrección de calidade
+  en: >-
+    Translation and editing services from
+    English and German into Spanish and Galician (EN/DE>ES/GL and ES<>GL).
+    We specialise in technical translation, technology, localisation…
+  de: >-
+    Übersetzungs- und Korrekturdienstleistungen aus dem
+    Englischen und Deutschen ins Spanischen und Galicischen (EN/DE>ES/GL und ES<>GL).
+    Unsere Spezialgebiete sind technische Übersetzung, Technologie, Lokalisierung…
+  es: >-
+    Servicios de traducción y revisión de
+    inglés y alemán a español y gallego (EN/DE>ES/GL y ES<>GL).
+    Estamos especializados en traducción técnica, tecnología, localización…
+  gl: >-
+    Servizos de tradución e revisión de inglés e alemán a castelán e galego (EN/DE>ES/GL e ES<>GL).
+    Estamos especializados en tradución técnica, tecnoloxía, localización…
+
 keywords:
   en: >-
     translation, localisation, revision, audio transcription,
     video transcription, English, German, Spanish, Galician,
-    technical translation, software localisation
-  de:
+    technical translation, software localisation, website localisation
+  de: >-
+    Übersetzung, Uebersetzung, Korrektur, Audiotranskription,Transkription,
+    Transkription Audioaufzeichnungen, Videotranskription, Transkription Videoaufzeichnungen,
+    Englisch, Deutsch, Spanisch, Galicisch, technische Übersetzung, technische Uebersetzung,
+    Softwarelokalisierung, Lokalisierung, Lokalisierung Websites
+
   es: >-
     traducción, localización, revisión, transcripción audio,
-    transcripción vídeo, inglés, alemán, español, castellano,
-    gallego, traducción técnica, localización software
-  gl:
+    transcripción vídeo, inglés, alemán, español, castellano, gallego,
+    traducción técnica, localización software, localización páginas web,
+    localización web, localización sitios web
+  gl: >-
+    tradución, localización, revisión, transcrición audio, transcrición son,
+    transcrición vídeo, inglés, alemán, castelán, español, galego,
+    tradución técnica, localización software, localización web, localización páxinas web,
+    localización sitios web
+
 url: http://99languages.es
 email: info@99languages.es
 twitter: '@99languages'
