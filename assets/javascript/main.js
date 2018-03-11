@@ -83,4 +83,17 @@ $(document).ready(function() {
   $('#contact #name').focus(function() {
     $('#success').html('');
   });
+
+  $(document).on('change', ':file', function() {
+    var input = $(this);
+    var nfiles = input.get(0).files ? input.get(0).files.length : 1;
+    var label = input.val().replace(/\\/g, '/').replace(/.*\//, '');
+    input.trigger('fileselect', [nfiles, label]);
+  });
+
+  $(':file').on('fileselect', function(event, nfiles, label) {
+    var input = $(this).parents('.input-group').find(':text');
+    var message = nfiles > 1 ? nfiles + ' ' + input.data('selected-message') : label;
+    input.val(message);
+  });
 });

@@ -186,7 +186,7 @@ services:
         <u>Xéneros de son e audiovisuais</u>: <strong>entrevistas</strong>,
         discursos, diálogos, <strong>formación</strong>, presentacións,
         conferencias, <strong>publicidade</strong>.
-        
+
   contact:
     en: >-
       <a href="#contact" class="page-scroll">Contact us</a> for financial translations
@@ -278,13 +278,13 @@ contact:
       escribiéndonos en el siguiente formulario.
     gl: >-
       Se tes algunha dúbida ou precisas que che presentemos un orzamento, non dubides
-      en poñerte en contacto connosco por teléfono, correo electrónico ou escribíndonos 
+      en poñerte en contacto connosco por teléfono, correo electrónico ou escribíndonos
       mediante o formulario seguinte.
   form:
     name:
       placeholder:
         en: Your name
-        de: 
+        de:
         es: Nombre y apellidos
         gl: Nome e apelidos
       validation-required:
@@ -311,7 +311,7 @@ contact:
     phone:
       placeholder:
         en: Your phone number
-        de: 
+        de:
         es: Número de teléfono
         gl: Número de teléfono
       validation-required:
@@ -319,6 +319,17 @@ contact:
         de:
         es: Introduce el número de teléfono
         gl: Introduce o número de teléfono
+    files:
+      placeholder:
+        en: Your attachments
+        de:
+        es: Archivos adjuntos
+        gl: Ficheiros
+      selected:
+        en: files selected
+        de:
+        es: archivos seleccionados
+        gl: ficheiros seleccionados
     message:
       placeholder:
         en: Your message

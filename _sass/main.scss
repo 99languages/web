@@ -545,7 +545,15 @@ section#contact {
             height: auto;
         }
         textarea.form-control {
-            height: 305px;
+            height: 412px;
+        }
+        .input-group {
+            .btn {
+                border: none;
+            }
+            input[type=file] {
+                display: none;
+            }
         }
     }
 

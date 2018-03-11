@@ -64,7 +64,7 @@
                                        id="name"
                                        required
                                        data-validation-required-message="{{ site.data.t.contact.form.name.validation-required[page.lang] }}">
-                                <p class="help-block text-danger">&nbsp;</p>
+                                <span class="help-block text-danger">&nbsp;</p>
                             </div>
                             <div class="control-group form-group">
                                 <input type="email"
@@ -74,7 +74,7 @@
                                        required
                                        data-validation-required-message="{{ site.data.t.contact.form.email.validation-required[page.lang] }}"
                                        data-validation-validemail-message="{{ site.data.t.contact.form.email.validation-validemail[page.lang] }}">
-                                <p class="help-block text-danger">&nbsp;</p>
+                                <span class="help-block text-danger">&nbsp;</p>
                             </div>
                             <div class="control-group form-group">
                                 <input type="tel"
@@ -84,7 +84,22 @@
                                        id="phone"
                                        required
                                        data-validation-required-message="{{ site.data.t.contact.form.phone.validation-required[page.lang] }}">
-                                <p class="help-block text-danger">&nbsp;</p>
+                                <span class="help-block text-danger">&nbsp;</p>
+                            </div>
+                            <div class="control-group form-group">
+                              <div class="input-group">
+                                  <input type="text"
+                                         class="form-control"
+                                         readonly=""
+                                         placeholder="{{ site.data.t.contact.form.files.placeholder[page.lang] }}"
+                                         data-selected-message="{{ site.data.t.contact.form.files.selected[page.lang] }}">
+                                  <label class="input-group-btn">
+                                      <span class="btn btn-xl">
+                                          … <input type="file" multiple="">
+                                      </span>
+                                  </label>
+                              </div>
+                              <span class="help-block text-danger">&nbsp;</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -95,7 +110,7 @@
                                           id="message"
                                           required
                                           data-validation-required-message="{{ site.data.t.contact.form.message.validation-required[page.lang] }}"></textarea>
-                                <p class="help-block text-danger">&nbsp;</p>
+                                <span class="help-block text-danger">&nbsp;</p>
                             </div>
                         </div>
                         <div class="clearfix"></div>
