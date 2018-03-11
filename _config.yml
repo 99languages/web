@@ -14,10 +14,10 @@ plugins:
 # General.
 name: 99languages
 title:
-  en: 99languages
-  de: 99languages
-  es: 99languages
-  gl: 99languages
+  en: '99languages: quality translation and editing services'
+  de: '99languages: hochwertige Übersetzungs- und Korrekturdienstleistungen'
+  es: '99languages: servicios de traducción y corrección de calidad'
+  gl: '99languages: servizos de tradución e corrección de calidade'
 description:
   en: Quality translation and editing services
   de: Hochwertige Übersetzungs- und Korrekturdienstleistungen
