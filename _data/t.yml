@@ -321,10 +321,10 @@ contact:
         gl: Introduce o número de teléfono
     file:
       placeholder:
-        en: Your attachment (up to 10 MB)
+        en: Your attachment (max. 10 MB)
         de:
-        es: Archivo adjunto (hasta 10 MB)
-        gl: Ficheiro (ata 10 MB)
+        es: Archivo adjunto (máx. 10 MB)
+        gl: Ficheiro (máx. 10 MB)
     message:
       placeholder:
         en: Your message
