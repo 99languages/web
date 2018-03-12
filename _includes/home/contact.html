@@ -91,11 +91,10 @@
                                   <input type="text"
                                          class="form-control"
                                          readonly=""
-                                         placeholder="{{ site.data.t.contact.form.files.placeholder[page.lang] }}"
-                                         data-selected-message="{{ site.data.t.contact.form.files.selected[page.lang] }}">
+                                         placeholder="{{ site.data.t.contact.form.file.placeholder[page.lang] }}">
                                   <label class="input-group-btn">
                                       <span class="btn btn-xl">
-                                          … <input type="file" multiple="">
+                                          … <input type="file" name="file" id="file" class="hidden">
                                       </span>
                                   </label>
                               </div>
@@ -117,7 +116,9 @@
                         <div class="col-lg-12 text-center">
                             <div id="success"></div>
                             <button type="submit" class="btn btn-xl">
-                                <i class="fab fa-telegram-plane"></i> {{ site.data.t.contact.form.send[page.lang] }}
+                                <i class="fab fa-telegram-plane"></i>
+                                <i class="fa fa-spinner fa-spin hidden"></i>
+                                {{ site.data.t.contact.form.send[page.lang] }}
                             </button>
                         </div>
                     </div>

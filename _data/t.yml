@@ -319,17 +319,12 @@ contact:
         de:
         es: Introduce el número de teléfono
         gl: Introduce o número de teléfono
-    files:
+    file:
       placeholder:
-        en: Your attachments
+        en: Your attachment (up to 10 MB)
         de:
-        es: Archivos adjuntos
-        gl: Ficheiros
-      selected:
-        en: files selected
-        de:
-        es: archivos seleccionados
-        gl: ficheiros seleccionados
+        es: Archivo adjunto (hasta 10 MB)
+        gl: Ficheiro (ata 10 MB)
     message:
       placeholder:
         en: Your message

@@ -8,26 +8,27 @@
 <script src="{{ "/assets/javascript/main.js" | prepend: site.baseurl }}"></script>
 
 <script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  'palette': {
-    'popup': {
-      'background': '#000000',
-      'text': '#ffffff'
+window.addEventListener('load', function() {
+  window.cookieconsent.initialise({
+    'palette': {
+      'popup': {
+        'background': '#000000',
+        'text': '#ffffff'
+      },
+      'button': {
+        'background': '#fed136',
+        'text': '#ffffff'
+      }
     },
-    'button': {
-      'background': '#fed136',
-      'text': '#ffffff'
+    'showLink': false,
+    'position': 'bottom-right',
+    'theme': 'classic',
+    'content': {
+      'message': '<i class="fa fa-info-circle"></i> {{ site.data.t.cookieconsent.message[page.lang] }}',
+      'dismiss': '<i class="fa fa-check"></i> {{ site.data.t.cookieconsent.dismiss[page.lang] }}'
     }
-  },
-  'showLink': false,
-  'position': 'bottom-right',
-  'theme': 'classic',
-  'content': {
-    'message': '<i class="fa fa-info-circle"></i> {{ site.data.t.cookieconsent.message[page.lang] }}',
-    'dismiss': '<i class="fa fa-check"></i> {{ site.data.t.cookieconsent.dismiss[page.lang] }}'
-  }
-})});
+  });
+});
 </script>
 
 <script>
