@@ -372,9 +372,12 @@ body {
 
 .full {
     background-attachment: fixed;
+    background-position: center center;
     background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
     background-size: cover;
-    background-position: 50% 50%;
+    -o-background-size: cover;
 }
 
 /******************************************************************************
@@ -387,7 +390,7 @@ header {
     background-attachment: scroll;
     background-image: url('/assets/images/header-background.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
