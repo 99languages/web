@@ -202,6 +202,23 @@ services:
       traducións financeiras (banca, investimento…) ou doutra modalidade, ou se necesitas
       traducións a outras linguas. Estaremos encantados de axudarte.
 
+milestones:
+  words:
+    en: words translated
+    de:
+    es: palabras traducidas
+    gl:
+  projects:
+    en: projects completed
+    de:
+    es: proyectos cerrados
+    gl:
+  clients:
+    en: happy clients
+    de:
+    es: clientes satisfechos
+    gl:
+
 team:
   section-heading:
     en: The team

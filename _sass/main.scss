@@ -370,6 +370,13 @@ body {
     }
 }
 
+.full {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
 /******************************************************************************
  * HEADER
  *****************************************************************************/
@@ -472,6 +479,32 @@ section#services {
 
     .contact {
         margin-top: 75px;
+    }
+}
+
+/******************************************************************************
+ * MILESTONES
+ *****************************************************************************/
+
+section#milestones {
+    background-image: url('/assets/images/milestones-background.jpg');
+    padding: 125px 0px;
+    color: white;
+
+    p {
+        font-weight: bold;
+        margin-bottom: 0px;
+        font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+        &.value {
+            font-size: 50px;
+            margin-top: 10px;
+        }
+        &.subject {
+            font-size: 20px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            padding-bottom: 10px;
+        }
     }
 }
 
@@ -594,6 +627,15 @@ section#contact:-ms-input-placeholder {
     font-family: $font-primary;
     font-weight: 700;
     color: #bbb;
+}
+
+/******************************************************************************
+ * STRIPS
+ *****************************************************************************/
+
+#strip-1 {
+    background-image: url('/assets/images/strip-1.jpg');
+    padding: 125px 0px;
 }
 
 /******************************************************************************

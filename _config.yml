@@ -35,7 +35,6 @@ description:
   gl: >-
     Servizos de tradución e revisión de inglés e alemán a castelán e galego (EN/DE>ES/GL e ES<>GL).
     Estamos especializados en tradución técnica, tecnoloxía, localización…
-
 keywords:
   en: >-
     translation, localisation, revision, audio transcription,
@@ -57,7 +56,10 @@ keywords:
     transcrición vídeo, inglés, alemán, castelán, español, galego,
     tradución técnica, localización software, localización web, localización páxinas web,
     localización sitios web
-
+milestones:
+  words: '+0'
+  projects: '+0'
+  clients: '+0'
 url: http://99languages.es
 email: info@99languages.es
 twitter: '@99languages'
