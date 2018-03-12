@@ -45,11 +45,11 @@ services:
       proofread Spanish and Galician texts.
     de:
     es: >-
-      Traducimos y localizamos de  <strong>inglés, alemán, español y gallego a
-      español y gallego</strong>. También revisamos textos en español y castellano.
+      Traducimos y localizamos de  <strong>inglés, alemán, castellano y gallego a
+      castellano y gallego</strong>. También revisamos textos en estos dos últimos idiomas.
     gl: >-
       Traducimos e localizamos desde <strong>inglés, alemán, castelán e galego a castelán e galego</strong>.
-      Tamén revisamos textos en castelán e galego.
+      Tamén revisamos textos nestes dous últimos idiomas.
   service1:
     heading:
       en: Translation & Localisation
