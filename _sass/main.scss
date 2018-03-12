@@ -257,6 +257,20 @@ body {
     webkit-tap-highlight-color: $color-primary;
 }
 
+.full {
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+@media(min-width:768px) {
+    background-attachment: scroll;
+}
+
 /******************************************************************************
  * NAVBAR
  *****************************************************************************/
@@ -368,16 +382,6 @@ body {
             }
         }
     }
-}
-
-.full {
-    background-attachment: fixed;
-    background-position: center center;
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 /******************************************************************************
