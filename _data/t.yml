@@ -205,75 +205,75 @@ services:
 milestones:
   words:
     en: words
-    de:
+    de: Wörter
     es: palabras
-    gl:
+    gl: palabras
   sap:
     value:
-      en: SAP software
-      de:
-      es:
-      gl:
-    title:
       en: '+100,000'
       de:
-      es:
-      gl:
+      es: '+ 100 000'
+      gl: '+ 100 000'
+    title:
+      en: SAP software
+      de:
+      es: Software SAP
+      gl: Software SAP
   automotive:
     value:
       en: '+150,000'
       de:
-      es:
-      gl:
+      es: '+ 150 000'
+      gl: '+ 150 000'
     title:
       en: Automotive
       de:
-      es:
-      gl:
+      es: Automoción
+      gl: Automoción
   medical:
     value:
       en: '+15,000'
       de:
-      es:
-      gl:
+      es: '+ 15 000'
+      gl: '+ 15 000'
     title:
       en: Medical equipment
       de:
-      es:
-      gl:
+      es: Aparatología médica
+      gl: Aparatoloxía médica
   data-protection:
     value:
       en: '+20,000'
       de:
-      es:
-      gl:
+      es: '+ 20 000'
+      gl: '+ 20 000'
     title:
       en: Data protection consultancy
       de:
-      es:
-      gl:
+      es: Consultoría protección de datos
+      gl: Consultoría protección de datos
   tools:
     value:
       en: '+35,000'
       de:
-      es:
-      gl:
+      es: '+ 35 000'
+      gl: '+ 35 000'
     title:
       en: 'Tools: electrical & others'
       de:
-      es:
-      gl:
+      es: 'Herramientas: eléctricas y otras'
+      gl: 'Ferramentas: eléctricas e outras'
   projects:
     value:
       en: '+700'
       de:
-      es:
-      gl:
+      es: '+ 700'
+      gl: '+ 700'
     title:
       en: Projects successfully completed
       de:
-      es:
-      gl:
+      es: Proyectos completados satisfactoriamente
+      gl: Proxectos completados satisfactoriamente
 
 team:
   section-heading:
