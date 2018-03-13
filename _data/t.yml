@@ -204,20 +204,76 @@ services:
 
 milestones:
   words:
-    en: words translated
+    en: words
     de:
-    es: palabras traducidas
+    es: palabras
     gl:
+  sap:
+    value:
+      en: SAP software
+      de:
+      es:
+      gl:
+    title:
+      en: '+100,000'
+      de:
+      es:
+      gl:
+  automotive:
+    value:
+      en: '+150,000'
+      de:
+      es:
+      gl:
+    title:
+      en: Automotive
+      de:
+      es:
+      gl:
+  medical:
+    value:
+      en: '+15,000'
+      de:
+      es:
+      gl:
+    title:
+      en: Medical equipment
+      de:
+      es:
+      gl:
+  data-protection:
+    value:
+      en: '+20,000'
+      de:
+      es:
+      gl:
+    title:
+      en: Data protection consultancy
+      de:
+      es:
+      gl:
+  tools:
+    value:
+      en: '+35,000'
+      de:
+      es:
+      gl:
+    title:
+      en: 'Tools: electrical & others'
+      de:
+      es:
+      gl:
   projects:
-    en: projects completed
-    de:
-    es: proyectos cerrados
-    gl:
-  clients:
-    en: happy clients
-    de:
-    es: clientes satisfechos
-    gl:
+    value:
+      en: '+700'
+      de:
+      es:
+      gl:
+    title:
+      en: Projects successfully completed
+      de:
+      es:
+      gl:
 
 team:
   section-heading:
