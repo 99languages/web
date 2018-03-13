@@ -497,7 +497,7 @@ section#services {
 
 section#milestones {
     background-image: url('/assets/images/milestones-background.jpg');
-    padding: 125px 0px;
+    padding: 75px 0px;
     color: white;
 
     p {
@@ -505,14 +505,20 @@ section#milestones {
         margin-bottom: 0px;
         font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
         &.value {
-            font-size: 50px;
+            font-size: 40px;
             margin-top: 10px;
         }
+        &.words {
+            font-size: 15px;
+            font-weight: normal;
+            margin-top: -10px;
+        }
         &.subject {
-            font-size: 20px;
+            margin-top: 5px;
+            font-size: 19px;
             letter-spacing: 1px;
             text-transform: uppercase;
-            padding-bottom: 10px;
+            padding-bottom: 30px;
         }
     }
 }
