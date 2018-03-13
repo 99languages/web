@@ -45,10 +45,10 @@ services:
       proofread Spanish and Galician texts.
     de:
     es: >-
-      Traducimos y localizamos de  <strong>inglés, alemán, castellano y gallego a
-      castellano y gallego</strong>. También revisamos textos en estos dos últimos idiomas.
+      Traducimos y localizamos del  <strong>inglés, alemán, español y gallego al
+      español y gallego</strong>. También revisamos textos en estos dos últimos idiomas.
     gl: >-
-      Traducimos e localizamos desde <strong>inglés, alemán, castelán e galego a castelán e galego</strong>.
+      Traducimos e localizamos do <strong>inglés, alemán, español e galego cara o español e galego</strong>.
       Tamén revisamos textos nestes dous últimos idiomas.
   service1:
     heading:
@@ -250,8 +250,8 @@ milestones:
     title:
       en: Data protection consultancy
       de:
-      es: Consultoría de protección de datos
-      gl: Consultoría de protección de datos
+      es: Consultoría protección de datos
+      gl: Consultoría protección de datos
   tools:
     value:
       en: '+35,000'
@@ -312,13 +312,13 @@ team:
           Soy un profesional de la traducción con una amplia experiencia en textos técnicos.
           Me encanta trabajar en equipo y pongo especial atención al detalle en todo lo que hago.
           Trabajo con documentación en inglés y alemán, que traduzco a mis lenguas maternas,
-          el castellano y el gallego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
+          el español y el gallego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
           target="blank_">mi perfil en LinkedIn</a> para obtener más referencias.
         gl: >-
           Son un profesional da tradución cunha ampla experiencia en textos técnicos.
           Encántame traballar en equipo e presto especial atención ao detalle en todo o que fago.
           Traballo con documentación en inglés e alemán, que traduzo ás miñas linguas maternas,
-          o castelán e o galego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
+          o español e o galego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
           target="blank_">o meu perfil en LinkedIn</a> para para obter máis referencias.
   contact:
     en: >-
