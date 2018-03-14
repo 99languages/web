@@ -323,16 +323,16 @@ team:
   contact:
     en: >-
       Want to know more about our project? Don't hesitate to <a href="#contact"
-      class="page-scroll">contact us</a> if you have any question or need a quote.
+      class="page-scroll">contact us</a> if you have any question.
     de:
     es: >-
       ¿Quieres saber más sobre nuestro proyecto? No dudes en <a href="#contact"
       class="page-scroll">ponerte en contacto</a> con nosotros si tienes
-      alguna duda o necesitas presupuesto.
+      alguna duda.
     gl: >-
       ¿Queres saber máis sobre o noso proxecto? Non dubides en <a href="#contact"
       class="page-scroll">poñerte en contacto</a> connosco se tes
-      algunha dúbida ou precisas orzamento.
+      algunha dúbida.
 
 contact:
   section-heading:
