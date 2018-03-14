@@ -45,9 +45,10 @@ services:
       proofread, and transcribe Spanish and Galician content.
     de:
     es: >-
-      Traducimos y localizamos del <strong>inglés, alemán, español y
-      gallego</strong> al español y gallego.
-      También revisamos textos y transcribimos en estos dos últimos idiomas.
+      Soy <a href="#team" class="page-scroll">Cristian Marcote</a>, tradutor
+      y revisor autónomo. Traduzco y localizo del <strong>inglés, alemán, español y
+      gallego</strong> al español y gallego. También reviso textos y transcribo
+      en estos dos últimos idiomas.
     gl: >-
       Traducimos e localizamos desde o <strong>inglés, alemán, español e
       galego</strong> cara o español e galego.
@@ -65,9 +66,9 @@ services:
         quality in our works.
       de:
       es: >-
-        Tenemos experiencia en distintos campos de especialización y
-        utilizamos herramientas profesionales para conseguir estándares
-        elevados de consistencia y calidad en nuestros trabajos.
+        Traducción y localización de <strong>textos en distintos
+        campos de especialización utilizando herramientas profesionales</strong>,
+        que permiten alcanzar estándares elevados de consistencia y calidad.
       gl: >-
         Temos experiencia en diferentes ámbitos de especialización e
         utilizamos ferramentas profesionais para acadar estándares
@@ -83,13 +84,14 @@ services:
         localisation, and more.
       de:
       es: >-
-        Traducimos textos de los siguientes campos: <strong>herramientas</strong>,
-        automoción, maquinaria, sistemas de <strong>automatización</strong>
-        y electrónica,  turismo, <strong>ingeniería</strong> mecánica,
-        <strong>informática</strong> (IT), telecomunicaciones, <strong>software</strong>,
-        tecnología de empaquetado, <strong>electrodomésticos</strong>,
-        industria del papel y de la impresión, <strong>aparatología médica</strong>,
-        <strong>localización</strong> de páginas <strong>web</strong> y de software,
+        Amplia experiencia en <strong>traducción de todo tipo de textos, especialmente
+        técnicos</strong>: herramientas,
+        automoción, maquinaria, sistemas de automatización
+        y electrónica,  turismo, ingeniería mecánica,
+        informática (IT), telecomunicaciones, software,
+        tecnología de empaquetado, electrodomésticos,
+        industria del papel y de la impresión, aparatología médica,
+        localización de páginas web y de software,
         y más.
       gl: >-
         Traducimos textos dos seguintes campos: <strong>ferramentas</strong>,
@@ -107,11 +109,11 @@ services:
         <strong>advertising</strong>, software interfaces, apps, websites.
       de:
       es: >-
-        Géneros textuales: manuales de <strong>instrucciones</strong>,
-        catálogos, <strong>especificaciones</strong>, documentación del producto
-        y de su mantenimiento, materiales para <strong>formación</strong>,
-        folletos, publicidad, <strong>interfaces de software</strong>,
-        aplicaciones (<i>apps</i>), <strong>páginas web</strong>.
+        <strong>Géneros textuales</strong>: manuales de instrucciones,
+        catálogos, especificaciones, documentación del producto
+        y de su mantenimiento, materiales para formación,
+        folletos, publicidad, interfaces de software,
+        aplicaciones (<i>apps</i>), páginas web.
       gl: >-
         Xéneros textuais: manuais de <strong>instrucións</strong>,
         catálogos, <strong>especificacións</strong>, documentación do produto
@@ -126,31 +128,32 @@ services:
       gl: Revisión
     paragraph1:
       en: >-
-        Poor writing, in any form, can harm your image. We make sure no errors
-        are present so your documents communicate exactly what you want to tell.
-      de:
-      es: >-
-        Un texto con incorrecciones o faltas puede perjudicar tu imagen. Nos
-        aseguramos de que no haya errores en tus documentos para que estos
-        comuniquen lo que quieres de manera precisa.
-      gl: >-
-        Un texto con incorreccións ou faltas pode prexudicar a túa imaxe.
-        Asegurámonos de que non haxa erros nos teus documentos para que estes
-        comuniquen o que queres de xeito preciso.
-    paragraph2:
-      en: >-
         We provide with <strong>editing</strong> and <strong>proofreading</strong>
         services. We can also perform a <strong>linguistic sign-off</strong> (LSO)
         of your publication's layout to ensure lack of errors in this stage.
       de:
       es: >-
-        Ofrecemos servicios de <strong>revisión</strong> y de <strong>corrección</strong>
-        de estilo y ortotipografía. También hacemos LSO (<strong>linguistic sign-off</strong>)
-        de tus documentos para asegurarnos de que no han surgido problemas tras la maquetación.
+        La <strong>revisión y corrección
+        de estilo y ortotipografía</strong> garantizan que la escritura de tus textos
+        sea impoluta, y el <strong>LSO (linguistic sign-off)</strong>
+        garantiza que no han surgido problemas tras la maquetación.
       gl: >-
         Ofrecemos servizos de <strong>revisión</strong> e de <strong>corrección</strong>
         de estilo e ortotipografía. Tamén nos ocupamos de facer <strong>linguistic sign-off</strong>
         (LSO) dos teus documentos para asegurarnos de que non xurdiron problemas tras a maquetación.
+    paragraph2:
+      en: >-
+        Poor writing, in any form, can harm your image. We make sure no errors
+        are present so your documents communicate exactly what you want to tell.
+      de:
+      es: >-
+        Un texto con incorrecciones o faltas puede perjudicar tu imagen. El
+        proceso de revisión asegura que no haya errores en tus documentos para que estos
+        comuniquen lo que quieres de manera precisa.
+      gl: >-
+        Un texto con incorreccións ou faltas pode prexudicar a túa imaxe.
+        Asegurámonos de que non haxa erros nos teus documentos para que estes
+        comuniquen o que queres de xeito preciso.
   service3:
     heading:
       en: Audio & Video Transcription
@@ -166,9 +169,9 @@ services:
       de:
       es: >-
         Si tienes una grabación de audio o un vídeo y quieres disponer del texto
-        para almacenarlo o traducirlo a otros idiomas, te lo transcribimos. Nos
-        adaptamos a tus necesidades y te ofrecemos tanto transcripciones literales
-        como naturales. Dinos qué necesitas.
+        para almacenarlo o traducirlo a otros idiomas, este es tu servicio. Adaptado
+        a tus necesidades y con posibilidad tanto de realizar <strong>transcripciones literales
+        como naturales</strong>.
       gl: >-
         Se tes unha gravación de son ou un vídeo e queres dispoñer do texto
         para almacenalo ou traducilo a outros idiomas, transcribímoscho. Adaptámonos
@@ -181,9 +184,9 @@ services:
         <strong>advertising</strong>.
       de:
       es: >-
-        Géneros de audio y audiovisuales: <strong>entrevistas</strong>,
-        discursos, diálogos, <strong>formación</strong>, presentaciones,
-        conferencias, <strong>publicidad</strong>.
+        <strong>Géneros de audio y audiovisuales</strong>: entrevistas,
+        discursos, diálogos, formación, presentaciones,
+        conferencias, publicidad.
       gl: >-
         Xéneros de son e audiovisuais: <strong>entrevistas</strong>,
         discursos, diálogos, <strong>formación</strong>, presentacións,
@@ -197,7 +200,7 @@ services:
     de:
     es: >-
       <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si
-      necesitas textos de otros campos u otras combinaciones de idiomas. Estaremos
+      necesitas otras combinaciones de idiomas. Estaremos
       encantados de ayudarte a encontrar el profesional que se adecúe a tus necesidades.
     gl: >-
       <a href="#contact" class="page-scroll">Ponte en contacto</a> connosco se precisas
@@ -289,8 +292,8 @@ team:
       deadlines. And most of all, we like to meet client's expectations.
     de:
     es: >-
-      Somos profesionales altamente comprometidos con la calidad y el cumplimiento
-      de plazos. Queremos, por encima de todo, satisfacer las expectativas del cliente.
+      Soy un profesional comprometido con la calidad y el cumplimiento
+      de los plazos acordados. Quiero, por encima de todo, satisfacer las expectativas del cliente.
     gl: >-
       Somos profesionais altamente comprometidos coa calidade e o cumprimento
       dos prazos. Queremos, por enriba de todo, satisfacer as expectativas do cliente.
@@ -311,11 +314,13 @@ team:
           for further references.
         de:
         es: >-
-          Soy un profesional de la traducción con una amplia experiencia en textos técnicos.
+          Soy un traductor con amplia experiencia en textos técnicos.
           Me encanta trabajar en equipo y pongo especial atención al detalle en todo lo que hago.
           Trabajo con documentación en inglés y alemán, que traduzco a mis lenguas maternas,
-          el español y el gallego. Visita <a href="https://www.linkedin.com/in/cmarcote/"
-          target="blank_">mi perfil en LinkedIn</a> para obtener más referencias.
+          el español y el gallego. Visita mis perfiles profesionales en
+          <a href="https://www.linkedin.com/in/cmarcote/"
+          target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>
+          para obtener más referencias.
         gl: >-
           Son un profesional da tradución cunha ampla experiencia en textos técnicos.
           Encántame traballar en equipo e presto especial atención ao detalle en todo o que fago.
@@ -329,9 +334,9 @@ team:
       a non obligation quotation.
     de:
     es: >-
-      ¿Quieres saber más sobre nuestro proyecto? No dudes en <a href="#contact"
+      ¿Quieres saber más sobre 99languages? No dudes en <a href="#contact"
       class="page-scroll">ponerte en contacto</a> con nosotros si tienes
-      alguna duda o pídenos presupuesto sin compromiso.
+      alguna duda o si quieres pedir un presupuesto sin compromiso.
     gl: >-
       ¿Queres saber máis sobre o noso proxecto? Non dubides en <a href="#contact"
       class="page-scroll">poñerte en contacto</a> connosco se tes
@@ -350,10 +355,10 @@ contact:
       as possible.
     de:
     es: >-
-      Si tienes alguna duda o necesitas que te hagamos presupuesto, no dudes
+      Para cualquier pregunta o si necesitas un presupuesto, no dudes
       en ponerte en contacto con nosotros por teléfono, correo electrónico o
-      escribiéndonos en el siguiente formulario. Te responderemos a la mayor
-      brevedad posible.
+      escribiéndonos en el siguiente formulario. Te responderemos lo antes
+      posible.
     gl: >-
       Se tes algunha dúbida ou precisas que che presentemos un orzamento, non dubides
       en poñerte en contacto connosco por teléfono, correo electrónico ou escribíndonos
@@ -446,9 +451,9 @@ contact:
       target languages are, and to send us the corresponding files.
     de:
     es: >-
-      Ten en cuenta que, para elaborar el presupuesto, necesitamos que nos
+      Ten en cuenta que, para elaborar el presupuesto, es necesario que
       indiques en qué servicios estás interesado, los idiomas de origen y de
-      destino, y que nos envíes los archivos correspondientes.
+      destino, y que envíes los archivos correspondientes.
     gl: >-
       Ten en conta que, para elaborarmos o orzamento, precisamos que nos
       indiques en que servizos estás interesado, os idiomas de orixe e de
