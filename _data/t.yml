@@ -41,15 +41,17 @@ services:
   section-subheading:
     en: >-
       We translate and localise from <strong>English, German, Spanish and
-      Galician into Spanish and Galician</strong>. We also edit and
-      proofread Spanish and Galician texts.
+      Galician</strong> into Spanish and Galician. We also edit,
+      proofread, and transcribe Spanish and Galician content.
     de:
     es: >-
-      Traducción y localización <strong>EN/DE>ES/GL</strong> y <strong>ES<>GL</strong>.
-      También revisamos textos y transcribimos en español y gallego.
+      Traducimos y localizamos del <strong>inglés, alemán, español y
+      gallego</strong> al español y gallego.
+      También revisamos textos y transcribimos en estos dos últimos idiomas.
     gl: >-
-      Traducimos e localizamos do <strong>inglés, alemán, español e galego cara o español e galego</strong>.
-      Tamén revisamos textos nestes dous últimos idiomas.
+      Traducimos e localizamos desde o <strong>inglés, alemán, español e
+      galego</strong> cara o español e galego.
+      Tamén revisamos textos e transcribimos nestes dous últimos idiomas.
   service1:
     heading:
       en: Translation & Localisation
@@ -73,45 +75,45 @@ services:
     paragraph2:
       en: >-
         We translate texts in the following fields: <strong>tools</strong>,
-        automotive, machinery, <strong>automation technology</strong> and
+        automotive, machinery, <strong>automation systems</strong> and
         electronics, tourism, mechanical engineering, <strong>IT</strong>,
         telecommunications, <strong>software</strong>, <strong>packaging</strong>
-        technology, household <strong>appliances</strong>, paper industry,
-        textile industry, <strong>medical equipment</strong>, web and software
-        localisation and much more.
+        technology, household <strong>appliances</strong>, paper and printing industry,
+        <strong>medical equipment</strong>, web and software
+        localisation, and more.
       de:
       es: >-
         Traducimos textos de los siguientes campos: <strong>herramientas</strong>,
-        automoción, maquinaria, tecnología de la <strong>automatización</strong>
+        automoción, maquinaria, sistemas de <strong>automatización</strong>
         y electrónica,  turismo, <strong>ingeniería</strong> mecánica,
         <strong>informática</strong> (IT), telecomunicaciones, <strong>software</strong>,
         tecnología de empaquetado, <strong>electrodomésticos</strong>,
-        industria del papel, industria textil, <strong>aparatología médica</strong>,
+        industria del papel y de la impresión, <strong>aparatología médica</strong>,
         <strong>localización</strong> de páginas <strong>web</strong> y de software,
-        y mucho más.
+        y más.
       gl: >-
         Traducimos textos dos seguintes campos: <strong>ferramentas</strong>,
-        automoción, maquinaria, tecnoloxía da <strong>automatización</strong>
+        automoción, maquinaria, sistemas de <strong>automatización</strong>
         e electrónica, turismo, <strong>enxeñería</strong> mecánica,
         <strong>informática</strong> (IT), telecomunicacións, <strong>software</strong>,
-        tecnoloxía de empaquetado, <strong>electrodomésticos</strong>, industria do papel,
-        industria téxtil, <strong>equipamento médico</strong>, <strong>localización</strong>
-        de páxinas <strong>web</strong> e software, e moito máis.
+        tecnoloxía de empaquetado, <strong>electrodomésticos</strong>, industria do papel
+        e da impresión, <strong>equipamento médico</strong>, <strong>localización</strong>
+        de páxinas <strong>web</strong> e software, e máis.
     paragraph3:
       en: >-
-        <u>Textual genres</u>: instructions <strong>manuals</strong>, catalogues,
+        Textual genres: instructions <strong>manuals</strong>, catalogues,
         <strong>specifications</strong>, service and maintenance documentation,
         <strong>training</strong> materials, <strong>leaflets</strong>,
         <strong>advertising</strong>, software interfaces, apps, websites.
       de:
       es: >-
-        <u>Géneros textuales</u>: manuales de <strong>instrucciones</strong>,
+        Géneros textuales: manuales de <strong>instrucciones</strong>,
         catálogos, <strong>especificaciones</strong>, documentación del producto
         y de su mantenimiento, materiales para <strong>formación</strong>,
         folletos, publicidad, <strong>interfaces de software</strong>,
         aplicaciones (<i>apps</i>), <strong>páginas web</strong>.
       gl: >-
-        <u>Xéneros textuais</u>: manuais de <strong>instrucións</strong>,
+        Xéneros textuais: manuais de <strong>instrucións</strong>,
         catálogos, <strong>especificacións</strong>, documentación do produto
         e de mantemento, materiais <strong>formativos</strong>, folletos,
         publicidade, <strong>interfaces de software</strong>,
@@ -174,33 +176,33 @@ services:
         Dinos que precisas.
     paragraph2:
       en: >-
-        <u>Audio or audiovisual genres</u>: <strong>interviews</strong>, speeches,
+        Audio or audiovisual genres: <strong>interviews</strong>, speeches,
         dialogues, <strong>training</strong>, lectures, presentations,
         <strong>advertising</strong>.
       de:
       es: >-
-        <u>Géneros de audio y audiovisuales</u>: <strong>entrevistas</strong>,
+        Géneros de audio y audiovisuales: <strong>entrevistas</strong>,
         discursos, diálogos, <strong>formación</strong>, presentaciones,
         conferencias, <strong>publicidad</strong>.
       gl: >-
-        <u>Xéneros de son e audiovisuais</u>: <strong>entrevistas</strong>,
+        Xéneros de son e audiovisuais: <strong>entrevistas</strong>,
         discursos, diálogos, <strong>formación</strong>, presentacións,
         conferencias, <strong>publicidade</strong>.
 
   contact:
     en: >-
-      <a href="#contact" class="page-scroll">Contact us</a> for financial translations
-      (banking, investment…) or others, or if you seek further language pairs. We will
-      be happy to assist you.
+      <a href="#contact" class="page-scroll">Contact us</a> for texts on other fields
+      or further language pairs. We will be happy to assist you finding the right
+      professional to meet your needs.
     de:
     es: >-
       <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si
-      necesitas traducciones financieras (banca, inversión…) u de otra modalidad, o si
-      necesitas traducciones a otros idiomas. Estaremos encantados de ayudarte.
+      necesitas textos de otros campos u otras combinaciones de idiomas. Estaremos
+      encantados de ayudarte a encontrar el profesional que se adecúe a tus necesidades.
     gl: >-
       <a href="#contact" class="page-scroll">Ponte en contacto</a> connosco se precisas
-      traducións financeiras (banca, investimento…) ou doutra modalidade, ou se necesitas
-      traducións a outras linguas. Estaremos encantados de axudarte.
+      textos doutros eidos ou outras combinacións de idiomas. Estaremos encantados
+      de axudarte a atopar ao profesional que se adecúe ás túas necesidades.
 
 milestones:
   words:
@@ -323,16 +325,17 @@ team:
   contact:
     en: >-
       Want to know more about our project? Don't hesitate to <a href="#contact"
-      class="page-scroll">contact us</a> if you have any question.
+      class="page-scroll">contact us</a> if you have any question or request
+      a non obligation quotation.
     de:
     es: >-
       ¿Quieres saber más sobre nuestro proyecto? No dudes en <a href="#contact"
       class="page-scroll">ponerte en contacto</a> con nosotros si tienes
-      alguna duda.
+      alguna duda o pídenos presupuesto sin compromiso.
     gl: >-
       ¿Queres saber máis sobre o noso proxecto? Non dubides en <a href="#contact"
       class="page-scroll">poñerte en contacto</a> connosco se tes
-      algunha dúbida.
+      algunha dúbida ou solicítanos orzamento sen compromiso.
 
 contact:
   section-heading:
@@ -342,17 +345,19 @@ contact:
     gl: Contacto
   section-subheading:
     en: >-
-      If you have any question or need a quote, don't hesitate to contact us
-      via phone, e-mail or using the form below.
+      If you have any question or need a quotation, don't hesitate to contact us
+      via phone, e-mail or using the form below. We'll get back to you as soon
+      as possible.
     de:
     es: >-
       Si tienes alguna duda o necesitas que te hagamos presupuesto, no dudes
       en ponerte en contacto con nosotros por teléfono, correo electrónico o
-      escribiéndonos en el siguiente formulario.
+      escribiéndonos en el siguiente formulario. Te responderemos a la mayor
+      brevedad posible.
     gl: >-
       Se tes algunha dúbida ou precisas que che presentemos un orzamento, non dubides
       en poñerte en contacto connosco por teléfono, correo electrónico ou escribíndonos
-      mediante o formulario seguinte.
+      mediante o formulario seguinte. Responderémoste coa maior brevidade posible.
   form:
     name:
       placeholder:
@@ -434,7 +439,20 @@ contact:
       gl: >-
         Sentímolo, mais semella que o servidor non responde. Volve intentalo
         máis tarde ou escríbenos a <strong>info@99languages.es</strong>.
-
+  note:
+    en: >-
+      Please be aware that in order to give you a quotation we'll need you
+      to tell us what services you are interested in, what the source and
+      target languages are, and to send us the corresponding files.
+    de:
+    es: >-
+      Ten en cuenta que, para elaborar el presupuesto, necesitamos que nos
+      indiques en qué servicios estás interesado, los idiomas de origen y de
+      destino, y que nos envíes los archivos correspondientes.
+    gl: >-
+      Ten en conta que, para elaborarmos o orzamento, precisamos que nos
+      indiques en que servizos estás interesado, os idiomas de orixe e de
+      destino, e que nos envíes os ficheiros correspondentes.
 cookieconsent:
   message:
     en: >-

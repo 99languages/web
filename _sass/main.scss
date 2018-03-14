@@ -582,37 +582,46 @@ section#contact {
         }
     }
 
-    .form-group {
-        font-family: $font-primary;
-        margin-bottom: 25px;
-        input,
-        textarea {
-            padding: 20px;
+    form {
+        padding-bottom: 40px;
+
+        .form-group {
+            font-family: $font-primary;
+            margin-bottom: 25px;
+            input,
+            textarea {
+                padding: 20px;
+            }
+            input.form-control {
+                height: auto;
+            }
+            textarea.form-control {
+                height: 412px;
+            }
+            .input-group {
+                .btn {
+                    border: none;
+                }
+            }
         }
-        input.form-control {
-            height: auto;
+
+        .form-control:focus {
+            border-color: $color-primary;
+            box-shadow: none;
         }
-        textarea.form-control {
-            height: 412px;
-        }
-        .input-group {
-            .btn {
-                border: none;
+
+        .text-danger {
+            color: #e74c3c;
+            ul {
+                list-style-type: none;
+                padding-left: 0px;
             }
         }
     }
 
-    .form-control:focus {
-        border-color: $color-primary;
-        box-shadow: none;
-    }
-
-    .text-danger {
-        color: #e74c3c;
-        ul {
-            list-style-type: none;
-            padding-left: 0px;
-        }
+    .contact-note {
+        font-size: 16px;
+        color: white;
     }
 }
 
