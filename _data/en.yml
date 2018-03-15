@@ -1,0 +1,140 @@
+nav:
+  services: Services
+  team: Team
+  contact: Contact
+
+header:
+  intro-lead-in: Welcome to 99languages
+  intro-heading: Taking your words further
+  intro-button: How can we help you?
+
+services:
+  section-heading: Our services
+  section-subheading: >-
+    We translate and localise from <strong>English, German, Spanish and
+    Galician</strong> into Spanish and Galician. We also edit,
+    proofread, and transcribe Spanish and Galician content.
+  service1:
+    heading: Translation & Localisation
+    paragraph1: >-
+      We have experience in different specialisation fields and use
+      professional tools to achieve a high degree of consistency and
+      quality in our works.
+    paragraph2: >-
+      We translate texts in the following fields: <strong>tools</strong>,
+      automotive, machinery, <strong>automation systems</strong> and
+      electronics, tourism, mechanical engineering, <strong>IT</strong>,
+      telecommunications, <strong>software</strong>, <strong>packaging</strong>
+      technology, household <strong>appliances</strong>, paper and printing industry,
+      <strong>medical equipment</strong>, web and software
+      localisation, and more.
+    paragraph3: >-
+      Textual genres: instructions <strong>manuals</strong>, catalogues,
+      <strong>specifications</strong>, service and maintenance documentation,
+      <strong>training</strong> materials, <strong>leaflets</strong>,
+      <strong>advertising</strong>, software interfaces, apps, websites.
+  service2:
+    heading: Revision
+    paragraph1: >-
+      We provide with <strong>editing</strong> and <strong>proofreading</strong>
+      services. We can also perform a <strong>linguistic sign-off</strong> (LSO)
+      of your publication's layout to ensure lack of errors in this stage.
+    paragraph2: >-
+      Poor writing, in any form, can harm your image. We make sure no errors
+      are present so your documents communicate exactly what you want to tell.
+  service3:
+    heading: Audio & Video Transcription
+    paragraph1: >-
+      If you have a digital audio or video recording you wish to have in text
+      format or translated, we can transcribe it for you. We adapt to your needs,
+      whether it is a literal transcription or a natural one. Tell us what you
+      need.
+    paragraph2: >-
+      Audio or audiovisual genres: <strong>interviews</strong>, speeches,
+      dialogues, <strong>training</strong>, lectures, presentations,
+      <strong>advertising</strong>.
+
+  contact: >-
+    <a href="#contact" class="page-scroll">Contact us</a> for texts on other fields
+    or further language pairs. We will be happy to assist you finding the right
+    professional to meet your needs.
+
+milestones:
+  words: words
+  sap:
+    value: '+100,000'
+    title: SAP software
+  automotive:
+    value: '+150,000'
+    title: Automotive
+  medical:
+    value: '+15,000'
+    title: Medical equipment
+  data-protection:
+    value: '+20,000'
+    title: Data protection consultancy
+  tools:
+    value: '+35,000'
+    title: 'Tools: electrical & others'
+  projects:
+    value: '+700'
+    title: Projects successfully completed
+
+team:
+  section-heading: The team
+  section-subheading: >-
+    We are professionals with a strong commitment towards quality and meeting
+    deadlines. And most of all, we like to meet client's expectations.
+  cristian:
+    headline: Freelance translator and proofreader ❖ Founder of 99languages
+    paragraph1: >-
+      I'm a translation professional with a wide experience with technical
+      texts. I'm a team player and pay attention to detail in everything I
+      do. I work with English and German documentation and translate it
+      into my mother tongues, Spanish and Galician. Check out
+      <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">my LinkedIn profile</a>
+      for further references.
+  contact: >-
+    Want to know more about our project? Don't hesitate to <a href="#contact"
+    class="page-scroll">contact us</a> if you have any question or request
+    a non obligation quotation.
+
+contact:
+  section-heading: Contact us
+  section-subheading: >-
+    If you have any question or need a quotation, don't hesitate to contact us
+    via phone, e-mail or using the form below. We'll get back to you as soon
+    as possible.
+  form:
+    name:
+      placeholder: Your name
+      validation-required: Please enter your name
+    email:
+      placeholder: Your e-mail address
+      validation-required: Please enter your e-mail address
+      validation-validemail: This is not a valid e-mail address
+    phone:
+      placeholder: Your phone number
+      validation-required: Please enter your phone number
+    file:
+      placeholder: Your attachment (max. 10 MB)
+    message:
+      placeholder: Your message
+      validation-required: Please enter a message
+    send: Send message
+    success: >-
+      Your message has been sent. We'll get back to you as soon as posssible.
+      Thanks!
+    error: >-
+      Sorry, it seems the server is not responding. Please try again later
+      or send us an e-mail to <strong>info@99languages.es</strong>.
+  note: >-
+    Please be aware that in order to give you a quotation we'll need you
+    to tell us what services you are interested in, what the source and
+    target languages are, and to send us the corresponding files.
+
+cookieconsent:
+  message: >-
+    This website uses cookies to ensure you get the best experience. By
+    continuing to browse the site you are agreeing to our use of cookies.
+  dismiss: Got it!

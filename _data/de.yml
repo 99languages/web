@@ -1,0 +1,88 @@
+nav:
+  services: Dienstleistungen
+  team: Team
+  contact: Kontakt
+
+header:
+  intro-lead-in: Willkommen auf 99languages
+  intro-heading:
+  intro-button: Wie können wir Ihnen helfen?
+
+services:
+  section-heading:
+  section-subheading:
+  service1:
+    heading:
+    paragraph1:
+    paragraph2:
+    paragraph3:
+  service2:
+    heading:
+    paragraph1:
+    paragraph2:
+  service3:
+    heading:
+    paragraph1:
+    paragraph2:
+
+  contact:
+
+milestones:
+  words: Wörter
+  sap:
+    value:
+    title:
+  automotive:
+    value:
+    title:
+  medical:
+    value:
+    title:
+  data-protection:
+    value:
+    title:
+  tools:
+    value:
+    title:
+  projects:
+    value:
+    title:
+
+team:
+  section-heading: Team
+  section-subheading:
+  cristian:
+    headline:
+    paragraph1:
+  contact:
+
+contact:
+  section-heading:
+  section-subheading:
+  form:
+    name:
+      placeholder:
+      validation-required:
+    email:
+      placeholder:
+      validation-required:
+      validation-validemail:
+    phone:
+      placeholder:
+      validation-required:
+    file:
+      placeholder:
+    message:
+      placeholder:
+      validation-required:
+    send:
+    success:
+    error:
+  note:
+
+cookieconsent:
+  message: >-
+    Auf dieser Website werden Cookies eingesetzt, um Ihnen das beste
+    Erlebnis zu bieten. Sollten Sie den Besuch fortsetzen, dann stimmen
+    Sie zu, dass wir die sogenannten Cookies verwenden.
+  dismiss: Einverstanden!

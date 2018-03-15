@@ -24,8 +24,8 @@ window.addEventListener('load', function() {
     'position': 'bottom-right',
     'theme': 'classic',
     'content': {
-      'message': '<i class="fa fa-info-circle"></i> {{ site.data.t.cookieconsent.message[page.lang] }}',
-      'dismiss': '<i class="fa fa-check"></i> {{ site.data.t.cookieconsent.dismiss[page.lang] }}'
+      'message': '<i class="fa fa-info-circle"></i> {{ _.cookieconsent.message }}',
+      'dismiss': '<i class="fa fa-check"></i> {{ _.cookieconsent.dismiss }}'
     }
   });
 });

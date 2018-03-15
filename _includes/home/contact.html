@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col-lg-offset-2 col-lg-8 text-center">
                 <h2 class="section-heading">
-                    {{ site.data.t.contact.section-heading[page.lang] }}
+                    {{ _.contact.section-heading }}
                 </h2>
                 <h3 class="section-subheading text-muted">
-                    {{ site.data.t.contact.section-subheading[page.lang] }}
+                    {{ _.contact.section-subheading }}
                 </h3>
             </div>
         </div>
@@ -52,38 +52,38 @@
                 <form name="sent-message"
                       id="contact-form"
                       novalidate
-                      data-success-message="{{ site.data.t.contact.form.success[page.lang] }}"
-                      data-error-message="{{ site.data.t.contact.form.error[page.lang] }}">
+                      data-success-message="{{ _.contact.form.success }}"
+                      data-error-message="{{ _.contact.form.error }}">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="control-group form-group">
                                 <input type="text"
                                        class="form-control"
-                                       placeholder="{{ site.data.t.contact.form.name.placeholder[page.lang] }} *"
+                                       placeholder="{{ _.contact.form.name.placeholder }} *"
                                        name="name"
                                        id="name"
                                        required
-                                       data-validation-required-message="{{ site.data.t.contact.form.name.validation-required[page.lang] }}">
+                                       data-validation-required-message="{{ _.contact.form.name.validation-required }}">
                                 <span class="help-block text-danger">&nbsp;</span>
                             </div>
                             <div class="control-group form-group">
                                 <input type="email"
                                        class="form-control"
-                                       placeholder="{{ site.data.t.contact.form.email.placeholder[page.lang] }} *"
+                                       placeholder="{{ _.contact.form.email.placeholder }} *"
                                        name="email" id="email"
                                        required
-                                       data-validation-required-message="{{ site.data.t.contact.form.email.validation-required[page.lang] }}"
-                                       data-validation-validemail-message="{{ site.data.t.contact.form.email.validation-validemail[page.lang] }}">
+                                       data-validation-required-message="{{ _.contact.form.email.validation-required }}"
+                                       data-validation-validemail-message="{{ _.contact.form.email.validation-validemail }}">
                                 <span class="help-block text-danger">&nbsp;</span>
                             </div>
                             <div class="control-group form-group">
                                 <input type="tel"
                                        class="form-control"
-                                       placeholder="{{ site.data.t.contact.form.phone.placeholder[page.lang] }} *"
+                                       placeholder="{{ _.contact.form.phone.placeholder }} *"
                                        name="phone"
                                        id="phone"
                                        required
-                                       data-validation-required-message="{{ site.data.t.contact.form.phone.validation-required[page.lang] }}">
+                                       data-validation-required-message="{{ _.contact.form.phone.validation-required }}">
                                 <span class="help-block text-danger">&nbsp;</span>
                             </div>
                             <div class="control-group form-group">
@@ -91,7 +91,7 @@
                                   <input type="text"
                                          class="form-control"
                                          readonly=""
-                                         placeholder="{{ site.data.t.contact.form.file.placeholder[page.lang] }}">
+                                         placeholder="{{ _.contact.form.file.placeholder }}">
                                   <label class="input-group-btn">
                                       <span class="btn btn-xl">
                                           … <input type="file" name="file" id="file" class="hidden">
@@ -104,11 +104,11 @@
                         <div class="col-md-6">
                             <div class="control-group form-group">
                                 <textarea class="form-control"
-                                          placeholder="{{ site.data.t.contact.form.message.placeholder[page.lang] }} *"
+                                          placeholder="{{ _.contact.form.message.placeholder }} *"
                                           name="message"
                                           id="message"
                                           required
-                                          data-validation-required-message="{{ site.data.t.contact.form.message.validation-required[page.lang] }}"></textarea>
+                                          data-validation-required-message="{{ _.contact.form.message.validation-required }}"></textarea>
                                 <span class="help-block text-danger">&nbsp;</span>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                             <button type="submit" class="btn btn-xl">
                                 <i class="fab fa-telegram-plane"></i>
                                 <i class="fa fa-spinner fa-spin hidden"></i>
-                                {{ site.data.t.contact.form.send[page.lang] }}
+                                {{ _.contact.form.send }}
                             </button>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
             <div class="col-lg-10 col-lg-offset-1 text-center">
                 <p class="contact-note">
                   <i class="fa fa-hand-point-right fa-inverse"></i>
-                  {{ site.data.t.contact.note[page.lang] }}
+                  {{ _.contact.note }}
                 </p>
             </div>
         </div>

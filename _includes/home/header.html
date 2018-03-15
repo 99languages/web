@@ -18,17 +18,17 @@
                 </li>
                 <li>
                     <a class="page-scroll" href="#services">
-                        {{ site.data.t.nav.services[page.lang] }}
+                        {{ _.nav.services }}
                     </a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#team">
-                        {{ site.data.t.nav.team[page.lang] }}
+                        {{ _.nav.team }}
                     </a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">
-                        {{ site.data.t.nav.contact[page.lang] }}
+                        {{ _.nav.contact }}
                     </a>
                 </li>
             </ul>
@@ -39,10 +39,10 @@
 <header>
     <div class="container">
         <div class="intro-text">
-            <div class="intro-lead-in">{{ site.data.t.header.intro-lead-in[page.lang] }}</div>
-            <div class="intro-heading">{{ site.data.t.header.intro-heading[page.lang] }}</div>
+            <div class="intro-lead-in">{{ _.header.intro-lead-in }}</div>
+            <div class="intro-heading">{{ _.header.intro-heading }}</div>
             <a href="#services" class="page-scroll btn btn-xl">
-                {{ site.data.t.header.intro-button[page.lang] }}
+                {{ _.header.intro-button }}
             </a>
             <div class="intro-languages">
                 {% for language in site.languages %}
