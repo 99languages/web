@@ -31,7 +31,7 @@ services:
     paragraph2: >-
       <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
-    <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si necesitas otras combinaciones de idiomas. Estaremos encantados de ayudarte a encontrar el profesional que mejor se adecúe a tus necesidades.
+    <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si necesitas otras combinaciones de idiomas. Estaremos encantados de ayudarte a encontrar al profesional que mejor se adecúe a tus necesidades.
 milestones:
   words: palabras
   sap:
@@ -45,7 +45,7 @@ milestones:
     title: Aparatología médica
   data-protection:
     value: '+ 20 000'
-    title: Consultoría protección de datos
+    title: Consultoría de protección de datos
   tools:
     value: '+ 35 000'
     title: 'Herramientas: eléctricas y otras'
