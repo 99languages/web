@@ -66,12 +66,12 @@ google_site_verification: ...
 google_analytics: ...
 
 # Languages.
-default_language: es
+default_language: en
 languages:
-#  en: English
+  en: English
 #  de: Deutsch
   es: Español
-#  gl: Galego
+  gl: Galego
 
 # SASS.
 sass:
