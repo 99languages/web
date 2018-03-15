@@ -17,7 +17,7 @@ services:
     paragraph2: >-
       Amplia experiencia en <strong>traducción de todo tipo de textos, especialmente técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica,  turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, y más.
     paragraph3: >-
-      <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (apps), páginas web.
+      <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (<i>apps</i>), páginas web.
   service2:
     heading: Revisión
     paragraph1: >-
@@ -91,5 +91,5 @@ contact:
     Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
 cookieconsent:
   message: >-
-    Este sitio web utiliza cookies para garantizar la mejor experiencia posible. Si continúas navegando, estarás aceptando implícitamente que hagamos uso de dichas cookies.
+    Este sitio web utiliza <i>cookies</i> para garantizar la mejor experiencia posible. Si continúas navegando, estarás aceptando implícitamente que hagamos uso de dichas <i>cookies</i>.
   dismiss: De acuerdo
