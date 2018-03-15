@@ -2,69 +2,36 @@ nav:
   services: Servicios
   team: Equipo
   contact: Contacto
-
 header:
   intro-lead-in: Bienvenido a 99languages
   intro-heading: Llevamos tus palabras más lejos
   intro-button: ¿Cómo podemos ayudarte?
-
 services:
   section-heading: Servicios
   section-subheading: >-
-    Soy <a href="#team" class="page-scroll">Cristian Marcote</a>, tradutor
-    y revisor autónomo. Traduzco y localizo del <strong>inglés, alemán, español y
-    gallego</strong> al español y gallego. También reviso textos y transcribo
-    en estos dos últimos idiomas.
+    Soy <a href="#team" class="page-scroll">Cristian Marcote</a>, traductor y revisor autónomo. Traduzco y localizo del <strong>inglés, alemán, español y gallego</strong> al español y gallego. También reviso textos y transcribo en estos dos últimos idiomas.
   service1:
     heading: Traducción y localización
     paragraph1: >-
-      Traducción y localización de <strong>textos en distintos
-      campos de especialización utilizando herramientas profesionales</strong>,
-      que permiten alcanzar estándares elevados de consistencia y calidad.
+      Traducción y localización de <strong>textos en distintos campos de especialización utilizando herramientas profesionales</strong>, lo que permite alcanzar estándares elevados de consistencia y calidad.
     paragraph2: >-
-      Amplia experiencia en <strong>traducción de todo tipo de textos, especialmente
-      técnicos</strong>: herramientas,
-      automoción, maquinaria, sistemas de automatización
-      y electrónica,  turismo, ingeniería mecánica,
-      informática (IT), telecomunicaciones, software,
-      tecnología de empaquetado, electrodomésticos,
-      industria del papel y de la impresión, aparatología médica,
-      localización de páginas web y de software,
-      y más.
+      Amplia experiencia en <strong>traducción de todo tipo de textos, especialmente técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica,  turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, y más.
     paragraph3: >-
-      <strong>Géneros textuales</strong>: manuales de instrucciones,
-      catálogos, especificaciones, documentación del producto
-      y de su mantenimiento, materiales para formación,
-      folletos, publicidad, interfaces de software,
-      aplicaciones (<i>apps</i>), páginas web.
+      <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (apps), páginas web.
   service2:
     heading: Revisión
     paragraph1: >-
-      La <strong>revisión y corrección
-      de estilo y ortotipografía</strong> garantizan que la escritura de tus textos
-      sea impoluta, y el <strong>LSO (linguistic sign-off)</strong>
-      garantiza que no han surgido problemas tras la maquetación.
+      La <strong>revisión y corrección de estilo y ortotipografía</strong> garantizan que la escritura de tus textos finales sea impoluta. Por su parte, la <strong>LSO (linguistic sign-off)</strong> es de utilidad para corregir posibles problemas que surjan tras la maquetación.
     paragraph2: >-
-      Un texto con incorrecciones o faltas puede perjudicar tu imagen. El
-      proceso de revisión asegura que no haya errores en tus documentos para que estos
-      comuniquen lo que quieres de manera precisa.
+      Un texto con incorrecciones o faltas puede perjudicar tu imagen. Con el proceso de revisión se garantiza que no quedan errores en tus documentos para que estos comuniquen lo que quieres de manera precisa.
   service3:
     heading: Transcripción de audio y vídeo
     paragraph1: >-
-      Si tienes una grabación de audio o un vídeo y quieres disponer del texto
-      para almacenarlo o traducirlo a otros idiomas, este es tu servicio. Adaptado
-      a tus necesidades y con posibilidad tanto de realizar <strong>transcripciones literales
-      como naturales</strong>.
+      Si tienes una grabación de audio o un vídeo y quieres disponer del texto para almacenarlo o traducirlo a otros idiomas, este es tu servicio. Adaptado a tus necesidades y con posibilidad tanto de realizar <strong>transcripciones literales como naturales</strong>.
     paragraph2: >-
-      <strong>Géneros de audio y audiovisuales</strong>: entrevistas,
-      discursos, diálogos, formación, presentaciones,
-      conferencias, publicidad.
-
+      <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
-    <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si
-    necesitas otras combinaciones de idiomas. Estaremos
-    encantados de ayudarte a encontrar el profesional que se adecúe a tus necesidades.
-
+    <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si necesitas otras combinaciones de idiomas. Estaremos encantados de ayudarte a encontrar el profesional que mejor se adecúe a tus necesidades.
 milestones:
   words: palabras
   sap:
@@ -85,34 +52,20 @@ milestones:
   projects:
     value: '+ 700'
     title: Proyectos completados satisfactoriamente
-
 team:
   section-heading: Equipo
   section-subheading: >-
-    Soy un profesional comprometido con la calidad y el cumplimiento
-    de los plazos acordados. Quiero, por encima de todo, satisfacer las expectativas del cliente.
+    Soy un profesional comprometido con la calidad y el cumplimiento de los plazos acordados. Quiero, por encima de todo, satisfacer las expectativas del cliente.
   cristian:
     headline: Traductor y revisor autónomo ❖ Creador de 99languages
     paragraph1: >-
-      Soy un traductor con amplia experiencia en textos técnicos.
-      Me encanta trabajar en equipo y pongo especial atención al detalle en todo lo que hago.
-      Trabajo con documentación en inglés y alemán, que traduzco a mis lenguas maternas,
-      el español y el gallego. Visita mis perfiles profesionales en
-      <a href="https://www.linkedin.com/in/cmarcote/"
-      target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>
-      para obtener más referencias.
+      Soy un traductor con amplia experiencia en textos técnicos. Me encanta trabajar en equipo y pongo especial atención al detalle en todo lo que hago. Trabajo con documentación en inglés y alemán, que traduzco a mis lenguas maternas, el castellano y el gallego. Visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a> para obtener más referencias.
   contact: >-
-    ¿Quieres saber más sobre 99languages? No dudes en <a href="#contact"
-    class="page-scroll">ponerte en contacto</a> con nosotros si tienes
-    alguna duda o si quieres pedir un presupuesto sin compromiso.
-
+    ¿Quieres saber más sobre 99languages? No dudes en <a href="#contact" class="page-scroll">ponerte en contacto</a> con nosotros si tienes alguna duda o si quieres pedir un presupuesto sin compromiso.
 contact:
   section-heading: Contacto
   section-subheading: >-
-    Para cualquier pregunta o si necesitas un presupuesto, no dudes
-    en ponerte en contacto con nosotros por teléfono, correo electrónico o
-    escribiéndonos en el siguiente formulario. Te responderemos lo antes
-    posible.
+    Para cualquier pregunta o si necesitas presupuesto, no dudes en ponerte en contacto con nosotros por teléfono, correo electrónico o escribiéndonos en el siguiente formulario. Nos pondremos en contacto contigo lo antes posible.
   form:
     name:
       placeholder: Nombre y apellidos
@@ -131,19 +84,12 @@ contact:
       validation-required: Escribe el mensaje
     send: Enviar mensaje
     success: >-
-      Mensaje enviado. Nos pondremos en contacto contigo lo antes posible.
-      ¡Gracias!
+      Mensaje enviado. Nos pondremos en contacto contigo lo antes posible. ¡Gracias!
     error: >-
-      Lo sentimos, pero parece que el servidor no responde. Vuelve a
-      intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
+      Lo sentimos, pero parece que el servidor no responde. Vuelve a intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
   note: >-
-    Ten en cuenta que, para elaborar el presupuesto, es necesario que
-    indiques en qué servicios estás interesado, los idiomas de origen y de
-    destino, y que envíes los archivos correspondientes.
-
+    Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
 cookieconsent:
   message: >-
-    Este sitio web utiliza <i>cookies</i> para garantizar la mejor experiencia
-    posible. Si continúas navegando, estarás aceptando implícitamente que
-    hagamos uso de las <i>cookies</i>.
+    Este sitio web utiliza cookies para garantizar la mejor experiencia posible. Si continúas navegando, estarás aceptando implícitamente que hagamos uso de dichas cookies.
   dismiss: De acuerdo
