@@ -1,7 +1,7 @@
 nav:
   services: Services
   team: Team
-  contact: Contact us
+  contact: Contact
 header:
   intro-lead-in: Welcome to 99languages
   intro-heading: Taking your words further
@@ -9,7 +9,7 @@ header:
 services:
   section-heading: Our services
   section-subheading: >-
-    I am <a href="#team" class="page-scroll">Cristian Marcote</a>, freelance translator and editor. I translate and localise from <strong>English, German, Spanish and Galician</strong> into Spanish and Galician. I also edit, proofread and transcribe content in the last two languages.
+    My name is <a href="#team" class="page-scroll">Cristian Marcote</a> and i am a freelance translator and editor. I translate and localise from <strong>English, German, Spanish and Galician</strong> into Spanish and Galician. I also edit, proofread, and transcribe content in the last two languages.
   service1:
     heading: Translation and localisation
     paragraph1: >-
@@ -27,7 +27,7 @@ services:
   service3:
     heading: Audio and video transcription
     paragraph1: >-
-      If you have a digital audio or video recording you wish to have in text format or translated, this is your service. It adapts to your needs, with the possibility to elaborate either <strong>literal or natural transcriptions</strong>.
+      If you have an audio or video recording you wish to have in text format or translated, this is your service. It adapts to your needs, with the possibility to elaborate either <strong>literal or natural transcriptions</strong>.
     paragraph2: >-
       <strong>Audio or audiovisual genres</strong>: interviews, speeches, dialogues, training, lectures, presentations, advertising.
   contact: >-
@@ -55,7 +55,7 @@ milestones:
 team:
   section-heading: The team
   section-subheading: >-
-    I am a professional with commitment towards quality and meeting agreed deadlines. And most of all, I like meeting client's expectations.
+    I am a professional with commitment towards quality and meeting agreed deadlines. And most of all, I would like to meet client's expectations.
   cristian:
     headline: Freelance translator and editor ❖ Founder of 99languages
     paragraph1: >-
@@ -88,7 +88,7 @@ contact:
     error: >-
       Sorry, it seems the server is not responding. Please try again later or send us an e-mail to <strong>info@99languages.es</strong>.
   note: >-
-    Please be aware that in order to give you a quotation the following information will be necessary in advance: what services you are interested in, what the source and target languages are, and the corresponding files. Thank you!
+    Please be aware that in order to give you a quotation the following information should be provided: what services you are interested in, what the source and target languages are, and the corresponding files. Thank you!
 cookieconsent:
   message: >-
     This website uses cookies to ensure you get the best experience. By continuing to browse the site you are agreeing to our use of cookies.
