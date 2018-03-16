@@ -14,47 +14,6 @@ plugins:
 
 # General.
 name: 99languages
-title:
-  en: '99languages: translation and editing services'
-  de: '99languages: Übersetzungs- und Korrekturdienstleistungen'
-  es: '99languages: servicios de traducción y revisión'
-  gl: '99languages: servizos de tradución e revisión'
-description:
-  en: >-
-    Translation and editing from English and German
-    into Spanish and Galician (EN/DE>ES/GL and ES<>GL).
-    We specialise in technical translation, localisation, editing…
-  de: >-
-    Übersetzung und Korrektur aus dem Englischen und Deutschen
-    ins Spanischen und Galicischen (EN/DE>ES/GL und ES<>GL).
-    Unsere Spezialgebiete sind technische Übersetzung, Lokalisierung, Korrekturen…
-  es: >-
-    Traducción y revisión del inglés y alemán a español y gallego
-    (EN/DE>ES/GL y ES<>GL). Estamos especializados en traducción técnica, localización, revisión…
-  gl: >-
-    Tradución e revisión de inglés e alemán a español e galego (EN/DE>ES/GL e ES<>GL).
-    Estamos especializados en tradución técnica, localización, revisión…
-keywords:
-  en: >-
-    translation, localisation, revision, audio transcription,
-    video transcription, English, German, Spanish, Galician,
-    technical translation, software localisation, website localisation
-  de: >-
-    Übersetzung, Uebersetzung, Korrektur, Audiotranskription,Transkription,
-    Transkription Audioaufzeichnungen, Videotranskription, Transkription Videoaufzeichnungen,
-    Englisch, Deutsch, Spanisch, Galicisch, technische Übersetzung, technische Uebersetzung,
-    Softwarelokalisierung, Lokalisierung, Lokalisierung Websites
-
-  es: >-
-    traducción, localización, revisión, transcripción audio,
-    transcripción vídeo, inglés, alemán, español, castellano, gallego,
-    traducción técnica, localización software, localización páginas web,
-    localización web, localización sitios web
-  gl: >-
-    tradución, localización, revisión, transcrición audio, transcrición son,
-    transcrición vídeo, inglés, alemán, castelán, español, galego,
-    tradución técnica, localización software, localización web, localización páxinas web,
-    localización sitios web
 url: http://99languages.es
 email: info@99languages.es
 twitter: '@99languages'

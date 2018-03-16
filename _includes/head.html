@@ -1,8 +1,8 @@
 <head>
     {%- assign _ = site.data.[page.lang] -%}
 
-    {%- capture title %}{% if page.title %}{{ page.title[page.lang] }}{% else %}{{ site.title[page.lang] }}{% endif %}{%- endcapture %}
-    {%- capture description %}{% if page.description %}{{ page.description[page.lang] }}{% else %}{{ site.description[page.lang] }}{% endif %}{%- endcapture %}
+    {%- capture title %}{% if page.title %}{{ page.title[page.lang] }}{% else %}{{ _.title }}{% endif %}{%- endcapture %}
+    {%- capture description %}{% if page.description %}{{ page.description[page.lang] }}{% else %}{{ _.description }}{% endif %}{%- endcapture %}
     {%- if page.base %}
         {% capture path %}{{ page.url | replace:'index.html','' }}{% endcapture %}
     {%- else %}
@@ -22,7 +22,7 @@
         {%- endif %}
     {%- endfor %}
 
-    <meta name="keywords" content="{{ site.keywords[page.lang] }}">
+    <meta name="keywords" content="{{ _.keywords }}">
     <meta property="og:locale" content="{{ page.lang }}" />
     <meta property="og:title" content="{{ title }}" />
     <meta name="description" content="{{ description }}" />
