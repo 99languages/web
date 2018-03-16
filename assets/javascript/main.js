@@ -75,7 +75,7 @@
 
             function submit(data) {
               $.ajax({
-                url: 'https://script.google.com/macros/s/AKfycbx9yGLVg80etLvlPrgRRasRDTK-_Hok507SC6vC6LdkBz_Qc_9d/exec',
+                url: 'https://script.google.com/macros/s/AKfycby3ZZooPHlxPJ2DFOwkH1V2pALcCxs2jwC5OcjA1IXNuqOX3EI/exec',
                 type: 'POST',
                 data: data,
                 cache: false,

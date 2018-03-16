@@ -10,7 +10,7 @@
 
 var SHEET_NAME = 'submissions';
 var RECIPIENTS = 'info@99languages.es';
-var FOLDER_ID = '1qBYDWKSsKZz1jNoHTvzZ8r43LfA3zfO8';
+var FOLDER_ID = '10sUeJJJ7xIP0qZFpEVHgU9ietLHEKpSm';
 
 function doPost(e) {
   return handleResponse(e);
