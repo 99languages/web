@@ -40,7 +40,21 @@
     <div class="container">
         <div class="intro-text">
             <div class="intro-lead-in">{{ _.header.intro-lead-in }}</div>
-            <div class="intro-heading">{{ _.header.intro-heading }}</div>
+            <div class="intro-heading" id="morphext">
+                {{ _.header.intro-heading }},
+                {%- if page.lang != 'en' %}
+                    {{ site.data.en.header.intro-heading }},
+                {%- endif %}
+                {%- if page.lang != 'de' %}
+                    {{ site.data.de.header.intro-heading }},
+                {%- endif %}
+                {%- if page.lang != 'es' %}
+                    {{ site.data.es.header.intro-heading }},
+                {%- endif %}
+                {%- if page.lang != 'gl' %}
+                    {{ site.data.gl.header.intro-heading }}
+                {%- endif %}
+            </div>
             <a href="#services" class="page-scroll btn btn-xl">
                 {{ _.header.intro-button }}
             </a>

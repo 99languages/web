@@ -25,6 +25,10 @@ body {
     color: $color-primary;
 }
 
+.morphext > .animated {
+    display: inline-block;
+}
+
 p {
     font-size: 20px;
     line-height: 1.50;

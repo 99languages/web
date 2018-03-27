@@ -1,3 +1,74 @@
+(function ($) {
+  'use strict';
+
+  var defaults = {
+    wait: 3000,
+    speed: 5000
+  };
+
+  var effects = [
+    'flipInX',
+    'flipInY',
+    'zoomIn',
+    'jackInTheBox'
+  ];
+
+  function Plugin(element, options) {
+    this.element = $(element);
+    this.settings = $.extend({}, defaults, options);
+    this._defaults = defaults;
+    this._init();
+  }
+
+  Plugin.prototype = {
+    _init: function() {
+      var $that = this;
+      this.phrases = [];
+
+      this.element.addClass('morphext');
+
+      $.each(this.element.text().split(','), function (key, value) {
+        $that.phrases.push($.trim(value));
+      });
+
+      this.index = -1;
+      this.animate();
+
+      setTimeout(function() {
+        $that.start();
+      }, this.settings.wait);
+    },
+
+    animate: function() {
+      var effect = effects[Math.floor(Math.random() * effects.length)];
+      this.index = ++this.index % this.phrases.length;
+      this.element[0].innerHTML =
+        '<span class="animated ' + effect + '">' +
+        this.phrases[this.index] +
+        '</span>';
+    },
+
+    start: function() {
+      var $that = this;
+      this._interval = setInterval(function() {
+        $that.animate();
+      }, this.settings.speed);
+    },
+
+    stop: function() {
+      this._interval = clearInterval(this._interval);
+    }
+  };
+
+  $.fn['morphext'] = function(options) {
+    return this.each(function() {
+      if (!$.data(this, 'plugin_morphext')) {
+        $.data(this, 'plugin_morphext', new Plugin(this, options));
+      }
+    });
+  };
+})(jQuery);
+
 (function(window, document, undefined) {
   $(document).ready(function() {
     // jQuery for page scrolling feature - requires jQuery Easing plugin.
@@ -17,6 +88,12 @@
     // Closes the responsive menu on menu item click.
     $('.navbar-collapse ul li a').click(function() {
       $('.navbar-toggle:visible').click();
+    });
+
+    // Morphext.
+    $('#morphext').morphext({
+        wait: 3000,
+        speed: 5000
     });
 
     // Contact form.
