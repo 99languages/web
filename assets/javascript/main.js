@@ -92,8 +92,8 @@
 
     // Morphext.
     $('#morphext').morphext({
-        wait: 3000,
-        speed: 5000
+      wait: 1000,
+      speed: 5000
     });
 
     // Contact form.
