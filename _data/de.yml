@@ -1,101 +1,100 @@
-title: '99languages: Übersetzungs- und Korrekturdienstleistungen'
-
+title: '99languages: Übersetzungs- und Lektoratsdienstleistungen'
 description: >-
-  Übersetzung und Korrektur aus dem Englischen und Deutschen
-  ins Spanischen und Galicischen (EN/DE&gt;ES/GL und ES&lt;&gt;GL).
-  Unsere Spezialgebiete sind technische Übersetzung, Lokalisierung, Korrekturen…
-
+  Übersetzung und Lektorat aus dem Englischen und Deutschen ins Spanische und Galicische (EN/DE>ES/GL und ES<>GL). Unsere Spezialgebiete sind technische Übersetzung, Lokalisierung, Lektorat, Korrektorat etc.
 keywords: >-
-  Übersetzung, Uebersetzung, Korrektur, Audiotranskription,Transkription,
-  Transkription Audioaufzeichnungen, Videotranskription, Transkription Videoaufzeichnungen,
-  Englisch, Deutsch, Spanisch, Galicisch, technische Übersetzung, technische Uebersetzung,
-  Softwarelokalisierung, Lokalisierung, Lokalisierung Websites
-
+  Übersetzung, Lokalisierung, Lektorat, Korrektorat, Audiotranskription, Videotranskription, Transkription Audioaufzeichnungen, Transkription Videoaufzeichnungen, Englisch, Deutsch, Spanisch, Galicisch, technische Übersetzung, Fachübersetzung, Softwarelokalisierung, Lokalisierung, Websitelokalisierung
 nav:
   services: Dienstleistungen
   team: Team
   contact: Kontakt
-
 header:
   intro-lead-in: Willkommen auf 99languages
-  intro-heading:
+  intro-heading: Wir bringen Ihre Worte weiter
   intro-button: Wie können wir Ihnen helfen?
-
 services:
-  section-heading:
-  section-subheading:
+  section-heading: Dienstleistungen
+  section-subheading: >-
+    Ich bin <a href="#team" class="page-scroll">Cristian Marcote</a>, selbstständiger Übersetzer und Lektor. Ich übersetze und lokalisiere aus dem <strong>Englischen, Deutschen, Spanischen und Galicischen</strong> ins Spanische und Galicische. Zudem lektoriere ich Texte und transkribiere in letzteren beiden Sprachen.
   service1:
-    heading:
-    paragraph1:
-    paragraph2:
-    paragraph3:
+    heading: Übersetzung und Lokalisierung
+    paragraph1: >-
+      Übersetzung und Lokalisierung von <strong>Texten aus verschiedenen Fachbereichen unter Anwendung professioneller Tools</strong> zur Gewährleistung hoher Standards in Bezug auf Konsistenz und Qualität.
+    paragraph2: >-
+      Umfangreiche Erfahrung in der <strong>Übersetzung unterschiedlichster Textsorten, insbesondere aus dem Technikbereich</strong>: Werkzeuge, Automobilindustrie, Maschinerie, Automatisierungs- und Elektroniksysteme, Tourismus, Maschinenbau, Informatik, Telekommunikation, Software, Verpackungstechnologie, Haushaltsgeräte, Papier- und Druckindustrie, medizinische Ausrüstung, Software- und Websitelokalisierung etc.
+    paragraph3: >-
+      <strong>Textgenres</strong>: Bedienungsanleitungen, Kataloge, Spezifikationen, Produktdokumentation und entsprechende Servicedokumentation, Schulungsunterlagen, Prospekte, Werbung, Benutzeroberflächen, Apps, Webseiten.
   service2:
-    heading:
-    paragraph1:
-    paragraph2:
+    heading: Lektorat und Korrektorat
+    paragraph1: >-
+      Die <strong>Prüfung und Korrektur von Stil, Orthografie und Typografie</strong> garantieren Ihnen eine makellose Endfassung Ihrer Dokumente. Das <strong>LSO (linguistic Sign-off)</strong> ist seinerseits von großem Nutzen, um etwaige Probleme zu korrigieren, die nach Fertigstellung des Layouts entstehen können.
+    paragraph2: >-
+      Ein Text mit Fehlern und Unkorrektheiten kann Ihrem Image schaden. Durch das Lektorat wird sichergestellt, dass Ihre Dokumente fehlerfrei sind, sodass diese auf präzise Weise das mitteilen, was Sie ausdrücken möchten.
   service3:
-    heading:
-    paragraph1:
-    paragraph2:
-
-  contact:
-
+    heading: Audio- und Videotranskription
+    paragraph1: >-
+      Falls Sie eine Audio- oder Videoaufzeichnung haben und über den zugehörigen Text verfügen möchten, um diesen zu speichern oder in andere Sprachen übersetzen zu lassen, dann ist das unsere Dienstleistung für Sie. Sie kann an Ihre Bedürfnisse angepasst werden, indem wir <strong>sowohl wörtliche als auch natürliche Transkriptionen</strong> erstellen.
+    paragraph2: >-
+      <strong>Audio- und audiovisuelle Genres</strong>: Interviews, Reden, Dialoge, Schulungen, Vorträge, Konferenzen, Werbung.
+  contact: >-
+    <a href="#contact" class="page-scroll">Kontaktieren Sie</a> uns, falls Sie andere Sprachkombinationen wünschen. Gerne helfen wir Ihnen, die für Ihre Bedürfnisse am besten geeignete Fachperson zu finden.
 milestones:
   words: Wörter
   sap:
-    value:
-    title:
+    value: '+100,000'
+    title: SAP-Software
   automotive:
-    value:
-    title:
+    value: '+150,000'
+    title: Automobilindustrie
   medical:
-    value:
-    title:
+    value: '+15,000'
+    title: Medizinische Ausrüstung
   data-protection:
-    value:
-    title:
+    value: '+20,000'
+    title: Datenschutzberatung
   tools:
-    value:
-    title:
+    value: '+35,000'
+    title: 'Werkzeuge (elektrische und andere)'
   projects:
-    value:
-    title:
-
+    value: '+700'
+    title: Erfolgreich abgeschlossene Projekte
 team:
   section-heading: Team
-  section-subheading:
+  section-subheading: >-
+    Als Fachmann bin ich der Qualität sowie der Einhaltung von vereinbarten Fristen verpflichtet. Vor allem möchte ich die Erwartungen des Kunden erfüllen.
   cristian:
-    headline:
-    paragraph1:
-  contact:
-
+    headline: Selbstständiger Übersetzer und Lektor ❖ Gründer von 99languages
+    paragraph1: >-
+      Ich bin Übersetzer und verfüge über umfangreiche Erfahrung mit technischen Texten. Ich bin ein Verfechter der Teamarbeit und lege bei allem, was ich mache, besonderen Wert auf Details. Ich arbeite mit deutscher und englischer Dokumentation, die ich in meine Muttersprachen Spanisch und Galicisch übersetze. Für weitere Referenzen besuchen Sie meine beruflichen Profile auf <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> und <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.
+  contact: >-
+    Möchten Sie mehr über 99languages erfahren? Sollten Sie noch weitere Fragen haben oder einen unverbindlichen Kostenvoranschlag wünschen, bitten wir Sie, mit uns <a href="#contact" class="page-scroll">in Kontakt zu treten</a>.
 contact:
-  section-heading:
-  section-subheading:
+  section-heading: Kontakt
+  section-subheading: >-
+    Bei Fragen oder wenn Sie einen Kostenvoranschlag erhalten möchten, kontaktieren Sie uns bitte per Telefon, E-Mail oder durch Ausfüllen des folgenden Formulars. Wir werden uns schnellstmöglich mit Ihnen in Verbindung setzten.
   form:
     name:
-      placeholder:
-      validation-required:
+      placeholder: Vorname und Nachname
+      validation-required: Geben Sie Ihren Vornamen und Nachnamen ein
     email:
-      placeholder:
-      validation-required:
-      validation-validemail:
+      placeholder: E-Mail-Adresse
+      validation-required: Geben Sie Ihre E-Mail-Adresse ein
+      validation-validemail: Dies ist keine gültige E-Mail-Adresse
     phone:
-      placeholder:
-      validation-required:
+      placeholder: Telefonnummer
+      validation-required: Geben Sie Ihre Telefonnummer ein
     file:
-      placeholder:
+      placeholder: Anhang (max. 10 MB)
     message:
-      placeholder:
-      validation-required:
-    send:
-    success:
-    error:
-  note:
-
+      placeholder: Mitteilung
+      validation-required: Schreiben Sie Ihre Mitteilung
+    send: Mitteilung senden
+    success: >-
+      Mitteilung gesendet. Wir werden uns schnellstmöglich mit Ihnen in Verbindung setzten. Danke!
+    error: >-
+      Es tut uns leid, der Server scheint nicht zu antworten. Versuchen Sie es später noch einmal oder schreiben Sie uns eine E-Mail an <strong>info@99languages.es</strong>.
+  note: >-
+    Bitte beachten Sie: Fürs Erstellen eines Kostenvoranschlags ist es erforderlich, dass Sie uns angeben, an welchen Dienstleistungen Sie interessiert sind, um welche Ausgangssprache und Zielsprache es sich dabei handelt und dass Sie uns die entsprechenden Dateien senden. Danke!
 cookieconsent:
   message: >-
-    Auf dieser Website werden Cookies eingesetzt, um Ihnen das beste
-    Erlebnis zu bieten. Sollten Sie den Besuch fortsetzen, dann stimmen
-    Sie zu, dass wir die sogenannten Cookies verwenden.
-  dismiss: Einverstanden!
+    Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis zu bieten. Indem Sie diese Website weiter nutzen, stimmen Sie der Verwendung solcher Cookies zu.
+  dismiss: Einverstanden
