@@ -2,7 +2,7 @@
   'use strict';
 
   var defaults = {
-    wait: 3000,
+    wait: 1000,
     speed: 5000
   };
 
