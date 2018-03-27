@@ -27,7 +27,7 @@ google_analytics: 'UA-115881613-1'
 default_language: en
 languages:
   en: English
-#  de: Deutsch
+  de: Deutsch
   es: Español
   gl: Galego
 
