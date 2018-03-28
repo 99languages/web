@@ -1,3 +1,35 @@
+(function() {
+  var doc_element = document.documentElement,
+    header = document.querySelector('.navbar-fixed-top'),
+    did_scroll = false,
+    change_header_on = 100;
+
+  function init() {
+    window.addEventListener('scroll', function(event) {
+      if (!did_scroll) {
+        did_scroll = true;
+        setTimeout(scroll_page, 100);
+      }
+    }, false);
+  }
+
+  function scroll_page() {
+    var sy = scroll_y();
+    if (sy >= change_header_on) {
+      classie.add(header, 'navbar-shrink');
+    } else {
+      classie.remove(header, 'navbar-shrink');
+    }
+    did_scroll = false;
+  }
+
+  function scroll_y() {
+    return window.pageYOffset || doc_element.scrollTop;
+  }
+
+  init();
+})();
+
 (function ($) {
   'use strict';
 

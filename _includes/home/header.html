@@ -40,26 +40,28 @@
     <div class="container">
         <div class="intro-text">
             <div class="intro-lead-in">{{ _.header.intro-lead-in }}</div>
-            <div class="intro-heading" id="morphext">
-                {{ _.header.intro-heading }}
-                <span class="hide phrases">
-                    ,
-                    {%- if page.lang != 'en' %}
-                        {{ site.data.en.header.intro-heading }},
-                    {%- endif %}
-                    {%- if page.lang != 'de' %}
-                        {{ site.data.de.header.intro-heading }},
-                    {%- endif %}
-                    {%- if page.lang != 'es' %}
-                        {{ site.data.es.header.intro-heading }},
-                    {%- endif %}
-                    {%- if page.lang != 'gl' %}
-                        {{ site.data.gl.header.intro-heading }},
-                    {%- endif %}
-                    Portem les teves paraules més lluny,
-                    我们带您的话语进一步,
-                    Levamos as suas palavras mais longe,
-                    Mir bringed dini Wort wiiter
+            <div class="intro-heading">
+                <span class="phrases" id="morphext">
+                    {{ _.header.intro-heading }}
+                    <span class="hide">
+                        ,
+                        {%- if page.lang != 'en' %}
+                            {{ site.data.en.header.intro-heading }},
+                        {%- endif %}
+                        {%- if page.lang != 'de' %}
+                            {{ site.data.de.header.intro-heading }},
+                        {%- endif %}
+                        {%- if page.lang != 'es' %}
+                            {{ site.data.es.header.intro-heading }},
+                        {%- endif %}
+                        {%- if page.lang != 'gl' %}
+                            {{ site.data.gl.header.intro-heading }},
+                        {%- endif %}
+                        Portem les teves paraules més lluny,
+                        我们带您的话语进一步,
+                        Levamos as suas palavras mais longe,
+                        Mir bringed dini Wort wiiter
+                    </span>
                 </span>
             </div>
             <a href="#services" class="page-scroll btn btn-xl">
