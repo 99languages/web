@@ -25,6 +25,10 @@ body {
     color: $color-primary;
 }
 
+.text-white {
+    color: white;
+}
+
 .morphext > .animated {
     display: inline-block;
 }
@@ -293,7 +297,7 @@ body {
 
 .navbar-default {
     border-color: transparent;
-    background-color: rgba(39, 56, 63, 1.0);
+    background-color: rgba(27, 53, 61, 1.0);
 
     .navbar-brand {
         padding: 0px 15px 20px;
@@ -369,7 +373,7 @@ body {
     .navbar-default {
         padding: 15px 0;
         border: 0;
-        background-color: rgba(39, 56, 63, 0.5);
+        background-color: rgba(27, 53, 61, 0.5);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -389,7 +393,7 @@ body {
 
         &.navbar-shrink {
             padding: 5px 0;
-            background-color: rgba(39, 56, 63, 1.0);
+            background-color: rgba(27, 53, 61, 1.0);
             .navbar-brand {
                 h1 {
                     font-size: 2.5em;
