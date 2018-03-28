@@ -20,6 +20,16 @@
     this._init();
   }
 
+  function shuffle(a) {
+    var j, x, i;
+    for (i = a.length - 1; i > 1; i--) {
+      j = Math.floor(1 + Math.random() * i);
+      x = a[i];
+      a[i] = a[j];
+      a[j] = x;
+    }
+  }
+
   Plugin.prototype = {
     _init: function() {
       var $that = this;
@@ -27,9 +37,10 @@
 
       this.element.addClass('morphext');
 
-      $.each(this.element.text().split(','), function (key, value) {
+      $.each(this.element.text().split(','), function(key, value) {
         $that.phrases.push($.trim(value));
       });
+      shuffle($that.phrases);
 
       this.index = -1;
       this.animate();
