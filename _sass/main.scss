@@ -210,6 +210,17 @@ section {
     }
 }
 
+body.de-lang {
+    h2.section-heading {
+        font-size: 32px;
+    }
+    @media(min-width:768px) {
+        h2.section-heading {
+            font-size: 40px;
+        }
+    }
+}
+
 ul.social-buttons {
     margin-bottom: 0;
     text-align: center;
@@ -223,7 +234,7 @@ ul.social-buttons {
         line-height: 40px;
         outline: 0;
         color: #fff;
-        background-color: #222;
+        background-color: $color-muted;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
