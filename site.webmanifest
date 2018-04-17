@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "99languages",
+    "short_name": "99languages",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
+    "start_url": "http://99languages.es",
     "display": "standalone"
 }
