@@ -311,10 +311,19 @@ body {
     background-color: rgba(22, 53, 60, 0.4);
 
     .navbar-header {
+        -webkit-transition: all ease .5s;
+        -moz-transition: all ease .5s;
+        transition: all ease .5s;
         height: 50px;
         .navbar-brand {
+            -webkit-transition: all ease .5s;
+            -moz-transition: all ease .5s;
+            transition: all ease .5s;
             padding: 5px 0px 5px 5px;
             img {
+                -webkit-transition: all ease .5s;
+                -moz-transition: all ease .5s;
+                transition: all ease .5s;
                 height: 50px;
                 opacity: 1.0;
             }
@@ -374,9 +383,6 @@ body {
     .navbar-default {
         padding: 5px 0;
         border: 0;
-        -webkit-transition: all ease .9s;
-        -moz-transition: all ease .9s;
-        transition: all ease .9s;
 
         .navbar-nav>.active>a {
             border-radius: 3px;
