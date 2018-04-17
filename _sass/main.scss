@@ -13,7 +13,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: $font1;
     color: $color-secondary-dark;
 }
 
@@ -67,7 +67,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-weight: 700;
 }
 
@@ -86,7 +86,7 @@ h6 {
 .btn-primary {
     border-color: $color-primary;
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-weight: 700;
     color: #fff;
     background-color: $color-primary;
@@ -137,7 +137,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: $color-primary;
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
@@ -196,7 +196,7 @@ section {
     h3.section-subheading {
         margin-bottom: 75px;
         text-transform: none;
-        font-family: $font-secondary;
+        font-family: $font3;
         font-size: 20px;
         line-height: 30px;
         font-style: italic;
@@ -350,7 +350,7 @@ body {
     .nav li {
         a {
             text-transform: uppercase;
-            font-family: $font-primary;
+            font-family: $font2;
             font-size: 1.2em;
             font-weight: 400;
             letter-spacing: 1px;
@@ -439,7 +439,7 @@ header {
         padding-top: 100px;
         padding-bottom: 10px;
         .intro-lead-in {
-            font-family: $font-secondary;
+            font-family: $font3;
             font-size: 22px;
             font-style: italic;
             line-height: 22px;
@@ -448,7 +448,7 @@ header {
             margin-top: 25px;
             margin-bottom: 25px;
             text-transform: uppercase;
-            font-family: $font-primary;
+            font-family: $font2;
             font-size: 35px;
             font-weight: 700;
             line-height: 250px;
@@ -467,7 +467,7 @@ header {
             font-size: 15px;
             a {
                 text-transform: uppercase;
-                font-family: $font-primary;
+                font-family: $font2;
                 font-size: 1.0em;
                 letter-spacing: 1px;
                 color: #fff;
@@ -491,14 +491,14 @@ header {
             padding-top: 350px;
             padding-bottom: 20px;
             .intro-lead-in {
-                font-family: $font-secondary;
+                font-family: $font3;
                 font-size: 40px;
                 font-style: italic;
                 line-height: 40px;
             }
             .intro-heading {
                 text-transform: uppercase;
-                font-family: $font-primary;
+                font-family: $font2;
                 font-size: 45px;
                 font-weight: 700;
                 span.phrases {
@@ -536,7 +536,7 @@ section#milestones {
     p {
         font-weight: bold;
         margin-bottom: 0px;
-        font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: $font1;
         &.value {
             font-size: 40px;
             margin-top: 10px;
@@ -619,7 +619,7 @@ section#contact {
         padding-bottom: 40px;
 
         .form-group {
-            font-family: $font-primary;
+            font-family: $font2;
             margin-bottom: 25px;
             input,
             textarea {
@@ -660,28 +660,28 @@ section#contact {
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
-    font-family: $font-primary;
+    font-family: $font2;
     font-weight: 700;
     color: #bbb;
 }
@@ -705,7 +705,7 @@ footer {
     span.copyright {
         text-transform: uppercase;
         text-transform: none;
-        font-family: $font-primary;
+        font-family: $font2;
         line-height: 40px;
     }
 
@@ -713,7 +713,7 @@ footer {
         margin-bottom: 0;
         text-transform: uppercase;
         text-transform: none;
-        font-family: $font-primary;
+        font-family: $font2;
         line-height: 40px;
     }
 }
