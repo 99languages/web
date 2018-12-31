@@ -702,16 +702,22 @@ section#contact:-ms-input-placeholder {
 footer {
     padding: 25px 0;
 
-    span.copyright {
-        text-transform: uppercase;
+    span.subsidy {
         text-transform: none;
         font-family: $font2;
-        line-height: 40px;
+        line-height: 30px;
+        display: block;
+    }
+
+    span.copyright {
+        text-transform: none;
+        font-family: $font2;
+        line-height: 20px;
     }
 
     ul.quicklinks {
+        margin-top: 10px;
         margin-bottom: 0;
-        text-transform: uppercase;
         text-transform: none;
         font-family: $font2;
         line-height: 40px;

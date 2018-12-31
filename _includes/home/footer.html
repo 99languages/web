@@ -2,12 +2,17 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
+                <span class="subsidy">
+                    <a href="/assets/promocion-emprego-autonomo.pdf" target="_blank">
+                        <i class="fa fa-info-circle"></i> {{ _.footer.subsidy }}
+                    </a>
+                </span>
                 <span class="copyright">
-                    Copyright &copy; {{ site.name }} {{ 'now' | date: "%Y" }}
+                    Copyright &copy; {{ site.name }} 2017-{{ 'now' | date: "%Y" }}
                 </span>
             </div>
             <div class="col-md-6">
-                <ul class="list-inline social-buttons pull-right">
+                <ul class="list-inline quicklinks social-buttons pull-right">
                     <li>
                         <a href="mailto:{{ site.email }}">
                             <i class="fa fa-envelope"></i>
