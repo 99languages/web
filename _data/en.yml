@@ -47,22 +47,22 @@ services:
 milestones:
   words: words
   sap:
-    value: '+100,000'
+    value: '+155,500'
     title: SAP software
   automotive:
-    value: '+150,000'
+    value: '+189,000'
     title: Automotive
   medical:
-    value: '+15,000'
+    value: '+19,000'
     title: Medical equipment
   data-protection:
-    value: '+20,000'
+    value: '+24,000'
     title: Data protection consultancy
   tools:
-    value: '+35,000'
+    value: '+93,600'
     title: 'Tools: electrical and others'
   projects:
-    value: '+700'
+    value: '+850'
     title: Projects successfully completed
 team:
   section-heading: The team
