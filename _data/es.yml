@@ -2,7 +2,7 @@ title: '99languages: servicios de traducción y revisión'
 
 description: >-
   Traducción y revisión del inglés y alemán a español y gallego
-  (EN/DE&gt;ES/GL y ES&lt;&gt;GL). Estamos especializados en traducción técnica, localización, revisión…
+  (EN/DE&gt;ES/GL y ES&lt;&gt;GL). Estamos especializados en traducción y revisión técnica, económica y financiera…
 
 keywords: >-
   traducción, localización, revisión, transcripción audio,
@@ -11,6 +11,7 @@ keywords: >-
   localización web, localización sitios web
 
 nav:
+  aboutme: # ENGADIR NOME DO APARTADO AQUÍ E NA SECCIÓN, ABAIXO
   services: Servicios
   team: Equipo
   contact: Contacto
@@ -18,24 +19,57 @@ header:
   intro-lead-in: Bienvenido a 99languages
   intro-heading: Llevamos tus palabras más lejos
   intro-button: ¿Cómo podemos ayudarte?
+  
+aboutme:
+  section-heading: #nome apartado
+  section-subheading: |
+      Soy un profesional comprometido con la calidad de mi trabajo.
+      Entrego los encargos en los plazos acordados.
+      Satisfago las expectativas de mis clientes.      
+  cristian:
+    #headline: Traductor y revisor autónomo ❖ Creador de 99languages
+    paragraph1: >-
+      Traslado tu documentación técnica y económica del inglés y alemán al español y gallego. 
+    paragraph2: >-
+      La traducción posibilita el diálogo, fomenta el comercio internacional y permite llegar al corazón de las personas. Si cada mercado es un mundo, cada cultura es un universo paralelo con su idioma particular.
+    paragraph3: >-
+      99languages es mi forma de tender puentes, avanzar camino y ayudar a las empresas y profesionales a alcanzar sus  objetivos.
+    paragraph4: >-
+      Sin traducción, no hay emoción.
+  contact: >-
+      Conóceme mejor: visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.  
 services:
   section-heading: Servicios
   section-subheading: >-
-    Soy <a href="#team" class="page-scroll">Cristian Marcote</a>, traductor y revisor autónomo. Traduzco y localizo del <strong>inglés, alemán, español y gallego</strong> al español y gallego. También reviso textos y transcribo en estos dos últimos idiomas.
+    Soy <a href="#aboutme" class="page-scroll">Cristian Marcote</a>, traductor y revisor. Traduzco, reviso y localizo documentos técnicos, económicos y financieros del <strong>inglés y el alemán</strong> al español y gallego, así como entre estos dos últimos idiomas.
   service1:
     heading: Traducción y localización
-    paragraph1: >-
-      Traducción y localización de <strong>textos en distintos campos de especialización utilizando herramientas profesionales</strong>, lo que permite alcanzar estándares elevados de consistencia y calidad.
+    paragraph1: |
+      Traducimos y localizamos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
+      Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.
     paragraph2: >-
-      Amplia experiencia en <strong>traducción de todo tipo de textos, especialmente técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica,  turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, y más.
+      <strong>Textos técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica, turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, etcétera.
     paragraph3: >-
       <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (<i>apps</i>), páginas web.
+    paragraph4: >-
+      <strong>Textos económicos</strong>: relaciones comerciales entre empresas, comercio internacional, fiscalidad, etc.
+    paragraph5: >-
+      <strong>Géneros textuales</strong>: contratos mercantiles, documentos de transporte y otros.
+    paragraph6: >-
+      <strong>Textos financieros</strong>: economía de la empresa, información empresarial, contabilidad, operaciones comerciales, mercados financieros, financiación de la empresa y banca, entre otros.
+    paragraph7: >-
+      <strong>Géneros textuales</strong>: estados financieros, préstamos, mercados de capitales, productos bancarios, actas de titularidad real, etcétera.
+
   service2:
     heading: Revisión
     paragraph1: >-
-      La <strong>revisión y corrección de estilo y ortotipografía</strong> garantizan que la escritura de tus textos finales sea impoluta. Por su parte, la <strong>LSO (linguistic sign-off)</strong> es de utilidad para corregir posibles problemas que surjan tras la maquetación.
+      Un texto con incorrecciones o faltas perjudica tu imagen.
     paragraph2: >-
-      Un texto con incorrecciones o faltas puede perjudicar tu imagen. Con el proceso de revisión se garantiza que no quedan errores en tus documentos para que estos comuniquen lo que quieres de manera precisa.
+      El proceso de revisión garantiza que tus documentos quedan bien redactados y comunican de manera precisa y eficaz.
+    paragraph3: >-
+      La <strong>revisión profunda de contenido y la corrección de estilo y ortotipografía</strong> aseguran que la escritura de tus textos finales sea impecable.
+    paragraph4: >-  
+      Ofrecemos la <strong>linguistic sign-off</strong> o <strong>LSO</strong>. Una revisión de la visualización final de los textos, previa a su publicación, para corregir posibles problemas que surjan tras la maquetación.
   service3:
     heading: Transcripción de audio y vídeo
     paragraph1: >-
@@ -43,64 +77,67 @@ services:
     paragraph2: >-
       <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
-    <a href="#contact" class="page-scroll">Ponte en contacto</a> con nosotros si necesitas otras combinaciones de idiomas. Estaremos encantados de ayudarte a encontrar al profesional que mejor se adecúe a tus necesidades.
+    ¿Necesitas otras combinaciones de idiomas?
+    <a href="#contact" class="page-scroll">Escríbenos</a>. ¡Te ayudamos!
 milestones:
   words: palabras
   sap:
-    value: '+ 155 500'
+    value: '+ 155 000'
     title: Software SAP
   automotive:
-    value: '+ 189 000'
+    value: '+ 300 000'
     title: Automoción
   medical:
-    value: '+ 19 000'
+    value: '+ 20 000'
     title: Aparatología médica
   data-protection:
-    value: '+ 24 000'
+    value: '+ 25 000'
     title: Consultoría de protección de datos
   tools:
-    value: '+ 93 600'
+    value: '+ 98 000'
     title: 'Herramientas: eléctricas y otras'
   projects:
-    value: '+ 850'
+    value: '+ 1500'
     title: Proyectos completados satisfactoriamente
 team:
   section-heading: Equipo
-  section-subheading: >-
-    Soy un profesional comprometido con la calidad y el cumplimiento de los plazos acordados. Quiero, por encima de todo, satisfacer las expectativas del cliente.
-  cristian:
-    headline: Traductor y revisor autónomo ❖ Creador de 99languages
-    paragraph1: >-
-      Soy un traductor con amplia experiencia en textos técnicos. Me encanta trabajar en equipo y pongo especial atención al detalle en todo lo que hago. Trabajo con documentación en inglés y alemán, que traduzco a mis lenguas maternas, el español y el gallego. Visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a> para obtener más referencias.
+  # section-subheading: >-
+  paragraph1: >-  
+    99languages cuenta con un equipo de traductores profesionales en distintas especialidades.
+  paragraph2: >-
+      Nuestra actividad consiste en la traducción y la revisión de documentos siguiendo un procedimiento que nos permite adaptarnos a distintos tipos de textos y garantizar la calidad del servicio prestado.
+  paragraph3: >-
+    La capacidad de mantener la coherencia lingüística en distintos documentos empresariales es uno de nuestros puntos fuertes. Consideramos esencial que todos los textos proyecten la identidad de la marca, con independencia del contenido traducido.
   contact: >-
-    ¿Quieres saber más sobre 99languages? No dudes en <a href="#contact" class="page-scroll">ponerte en contacto</a> con nosotros si tienes alguna duda o si quieres pedir un presupuesto sin compromiso.
+    Rompemos las barreras del idioma. ¿Hablamos?
 contact:
   section-heading: Contacto
-  section-subheading: >-
-    Para cualquier pregunta o si necesitas presupuesto, no dudes en ponerte en contacto con nosotros por teléfono, correo electrónico o escribiéndonos en el siguiente formulario. Nos pondremos en contacto contigo lo antes posible.
-  form:
-    name:
-      placeholder: Nombre y apellidos
-      validation-required: Introduce el nombre y los apellidos
-    email:
-      placeholder: Dirección de correo electrónico
-      validation-required: Introduce tu dirección de correo electrónico
-      validation-validemail: Esta no es una dirección de correo válida
-    phone:
-      placeholder: Número de teléfono
-      validation-required: Introduce el número de teléfono
-    file:
-      placeholder: Archivo adjunto (máx. 10 MB)
-    message:
-      placeholder: Mensaje
-      validation-required: Escribe el mensaje
-    send: Enviar mensaje
-    success: >-
-      Mensaje enviado. Nos pondremos en contacto contigo lo antes posible. ¡Gracias!
-    error: >-
-      Lo sentimos, pero parece que el servidor no responde. Vuelve a intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
-  note: >-
-    Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
+  section-subheading: |
+    ¿Tienes alguna pregunta? ¿Quieres un presupuesto? 
+    Ponte en contacto con nosotros. Te respondemos lo antes posible.
+  # form:
+    # name:
+      # placeholder: Nombre y apellidos
+      # validation-required: Introduce el nombre y los apellidos
+    # email:
+      # placeholder: Dirección de correo electrónico
+      # validation-required: Introduce tu dirección de correo electrónico
+      # validation-validemail: Esta no es una dirección de correo válida
+    # phone:
+      # placeholder: Número de teléfono
+      # validation-required: Introduce el número de teléfono
+    # file:
+      # placeholder: Archivo adjunto (máx. 10 MB)
+    # message:
+      # placeholder: Mensaje
+      # validation-required: Escribe el mensaje
+    # send: Enviar mensaje
+    # success: >-
+      # Mensaje enviado. Nos pondremos en contacto contigo lo antes posible. ¡Gracias!
+    # error: >-
+      # Lo sentimos, pero parece que el servidor no responde. Vuelve a intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
+  # note: >-
+    # Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
 footer:
   subsidy: Ayudas a la promoción del empleo autónomo
 cookieconsent:
