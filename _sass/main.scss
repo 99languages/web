@@ -526,7 +526,8 @@ section#aboutme {
 
     .ceo {
         margin-bottom: 50px;
-        text-align: center;
+        text-align: justify;
+        text-justify: inter-word;
         img {
             margin: 0 auto;
             border: 10px solid $color-primary;
