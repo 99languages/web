@@ -22,7 +22,7 @@ header:
   
 aboutme:
   section-heading: Quién soy
-  section-subheading: >-
+  section-subheading: |
     Soy un profesional comprometido con la calidad de mi trabajo.<br>
     Entrego los encargos en los plazos acordados.<br>
     Satisfago las expectativas de mis clientes.
@@ -77,7 +77,7 @@ services:
     paragraph2: >-
       <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
-    ¿Necesitas otras combinaciones de idiomas?
+    ¿Necesitas otras combinaciones de idiomas?<br>
     <a href="#contact" class="page-scroll">Escríbenos</a>. ¡Te ayudamos!
 milestones:
   words: palabras
@@ -109,7 +109,7 @@ team:
   paragraph3: >-
     La capacidad de mantener la coherencia lingüística en distintos documentos empresariales es uno de nuestros puntos fuertes. Consideramos esencial que todos los textos proyecten la identidad de la marca, con independencia del contenido traducido.
   contact: >-
-    Rompemos las barreras del idioma. ¿Hablamos?
+    Rompemos las barreras del idioma. <a href="#contact" class="page-scroll">¿Hablamos?</a>
 contact:
   section-heading: Contacto
   section-subheading: |
