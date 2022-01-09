@@ -23,10 +23,8 @@ header:
 aboutme:
   section-heading: Quién soy
   section-subheading1: |
-    Soy un profesional comprometido con la calidad de mi trabajo.
-  section-subheading2: |
-    Entrego los encargos en los plazos acordados.
-  section-subheading3: |
+    Soy un profesional comprometido con la calidad de mi trabajo.<br>
+    Entrego los encargos en los plazos acordados.<br>
     Satisfago las expectativas de mis clientes.
   cristian:
     #headline: Traductor y revisor autónomo ❖ Creador de 99languages
