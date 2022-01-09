@@ -112,8 +112,8 @@ team:
     Rompemos las barreras del idioma. <a href="#contact" class="page-scroll">¿Hablamos?</a>
 contact:
   section-heading: Contacto
-  section-subheading: |
-    ¿Tienes alguna pregunta? ¿Quieres un presupuesto? 
+  section-subheading: >-
+    ¿Tienes alguna pregunta? ¿Quieres un presupuesto?<br>
     Ponte en contacto con nosotros. Te respondemos lo antes posible.
   # form:
     # name:
