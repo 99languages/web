@@ -11,7 +11,7 @@ keywords: >-
   localización web, localización sitios web
 
 nav:
-  aboutme: # ENGADIR NOME DO APARTADO AQUÍ E NA SECCIÓN, ABAIXO
+  aboutme: Quién soy
   services: Servicios
   team: Equipo
   contact: Contacto
@@ -21,11 +21,14 @@ header:
   intro-button: ¿Cómo podemos ayudarte?
   
 aboutme:
-  section-heading: #nome apartado
+  section-heading: Quién soy
   section-subheading: |
       Soy un profesional comprometido con la calidad de mi trabajo.
+      
       Entrego los encargos en los plazos acordados.
-      Satisfago las expectativas de mis clientes.      
+      
+      Satisfago las expectativas de mis clientes.
+
   cristian:
     #headline: Traductor y revisor autónomo ❖ Creador de 99languages
     paragraph1: >-
