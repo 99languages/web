@@ -17,7 +17,7 @@ nav:
   contact: Contacto
 header:
   intro-lead-in: Bienvenido a 99languages
-  intro-heading: Llevamos tus palabras más lejos
+  intro-heading: Acercamos personas y llevamos tus palabras lejos
   intro-button: ¿Cómo podemos ayudarte?
   
 aboutme:
@@ -43,22 +43,26 @@ services:
   section-subheading: >-
     Soy <a href="#aboutme" class="page-scroll">Cristian Marcote</a>, traductor y revisor. Traduzco, reviso y localizo documentos técnicos, económicos y financieros del <strong>inglés y el alemán</strong> al español y gallego, así como entre estos dos últimos idiomas.
   service1:
-    heading: Traducción y localización
+    heading: Traducción de documentos
     paragraph1: |
       Traducimos y localizamos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
       Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.
-    paragraph2: >-
-      <strong>Textos técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica, turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, etcétera.
-    paragraph3: >-
-      <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (<i>apps</i>), páginas web.
-    paragraph4: >-
-      <strong>Textos económicos</strong>: relaciones comerciales entre empresas, comercio internacional, fiscalidad, etc.
-    paragraph5: >-
-      <strong>Géneros textuales</strong>: contratos mercantiles, documentos de transporte y otros.
-    paragraph6: >-
-      <strong>Textos financieros</strong>: economía de la empresa, información empresarial, contabilidad, operaciones comerciales, mercados financieros, financiación de la empresa y banca, entre otros.
-    paragraph7: >-
-      <strong>Géneros textuales</strong>: estados financieros, préstamos, mercados de capitales, productos bancarios, actas de titularidad real, etcétera.
+
+    subheading1: Traducción técnica
+        paragraph1: >-
+            <strong>Textos técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica, turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, etcétera.
+        paragraph2: >-
+            <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (<i>apps</i>), páginas web.
+    
+    subheading2: Traducción económica y financiera
+        paragraph1: >-
+            <strong>Textos económicos</strong>: relaciones comerciales entre empresas, comercio internacional, fiscalidad, etc.
+        paragraph2: >-
+            <strong>Géneros textuales</strong>: contratos mercantiles, documentos de transporte y otros.
+        paragraph3: >-
+            <strong>Textos financieros</strong>: economía de la empresa, información empresarial, contabilidad, operaciones comerciales, mercados financieros, financiación de la empresa y banca, entre otros.
+        paragraph4: >-
+            <strong>Géneros textuales</strong>: estados financieros, préstamos, mercados de capitales, productos bancarios, actas de titularidad real, etcétera.
 
   service2:
     heading: Revisión
@@ -70,12 +74,12 @@ services:
       La <strong>revisión profunda de contenido y la corrección de estilo y ortotipografía</strong> aseguran que la escritura de tus textos finales sea impecable.
     paragraph4: >-  
       Ofrecemos la <strong>linguistic sign-off</strong> o <strong>LSO</strong>. Una revisión de la visualización final de los textos, previa a su publicación, para corregir posibles problemas que surjan tras la maquetación.
-  service3:
-    heading: Transcripción de audio y vídeo
-    paragraph1: >-
-      Si tienes una grabación de audio o un vídeo y quieres disponer del texto para almacenarlo o traducirlo a otros idiomas, este es tu servicio. Adaptado a tus necesidades y con posibilidad tanto de realizar <strong>transcripciones literales como naturales</strong>.
-    paragraph2: >-
-      <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
+  # service3:
+    # heading: Transcripción de audio y vídeo
+    # paragraph1: >-
+      # Si tienes una grabación de audio o un vídeo y quieres disponer del texto para almacenarlo o traducirlo a otros idiomas, este es tu servicio. Adaptado a tus necesidades y con posibilidad tanto de realizar <strong>transcripciones literales como naturales</strong>.
+    # paragraph2: >-
+      # <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
     ¿Necesitas otras combinaciones de idiomas?<br>
     <a href="#contact" class="page-scroll">Escríbenos</a>. ¡Te ayudamos!
@@ -101,7 +105,7 @@ milestones:
     title: Proyectos completados satisfactoriamente
 team:
   section-heading: Equipo
-  # section-subheading: >-
+  # section-subheading: >- Buscamos soluciones
   paragraph1: >-  
     99languages cuenta con un equipo de traductores profesionales en distintas especialidades.
   paragraph2: >-
@@ -139,7 +143,7 @@ contact:
   # note: >-
     # Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
 footer:
-  subsidy: Ayudas a la promoción del empleo autónomo
+  # subsidy: Ayudas a la promoción del empleo autónomo
 cookieconsent:
   message: >-
     Este sitio web utiliza <i>cookies</i> para garantizar la mejor experiencia posible. Si continúas navegando, estarás aceptando implícitamente que hagamos uso de dichas <i>cookies</i>.
