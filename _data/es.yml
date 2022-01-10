@@ -29,7 +29,7 @@ aboutme:
   cristian:
     #headline: Traductor y revisor autónomo ❖ Creador de 99languages
     paragraph1: >-
-      Traslado tu documentación técnica y económica del inglés y alemán al español y gallego. 
+      Soy <a href="https://www.linkedin.com/in/cmarcote/" class="blank">Cristian Marcote</a>, traductor, revisor y creador de 99languages. Traslado tu documentación técnica y económica del inglés y alemán al español y gallego. 
     paragraph2: >-
       La traducción posibilita el diálogo, fomenta el comercio internacional y permite llegar al corazón de las personas. Si cada mercado es un mundo, cada cultura es un universo paralelo con su idioma particular.
     paragraph3: >-
@@ -40,31 +40,28 @@ aboutme:
       Conóceme mejor: visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.  
 services:
   section-heading: Servicios
-  section-subheading: >-
-    Soy <a href="#aboutme" class="page-scroll">Cristian Marcote</a>, traductor y revisor. Traduzco, reviso y localizo documentos técnicos, económicos y financieros del <strong>inglés y el alemán</strong> al español y gallego, así como entre estos dos últimos idiomas.
+  # section-subheading: >-
+  paragraph1: >-
+    Traducimos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
+    Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.    
   service1:
-    heading: Traducción de documentos
+    heading: Traducción técnica
     paragraph1: >-
-      Traducimos y localizamos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
-      Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.
-
-    subheading1: Traducción técnica
-        paragraph1: >-
-            <strong>Textos técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica, turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, etcétera.
-        paragraph2: >-
-            <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (<i>apps</i>), páginas web.
-    
-    subheading2: Traducción económica y financiera
-        paragraph1: >-
-            <strong>Textos económicos</strong>: relaciones comerciales entre empresas, comercio internacional, fiscalidad, etc.
-        paragraph2: >-
-            <strong>Géneros textuales</strong>: contratos mercantiles, documentos de transporte y otros.
-        paragraph3: >-
-            <strong>Textos financieros</strong>: economía de la empresa, información empresarial, contabilidad, operaciones comerciales, mercados financieros, financiación de la empresa y banca, entre otros.
-        paragraph4: >-
-            <strong>Géneros textuales</strong>: estados financieros, préstamos, mercados de capitales, productos bancarios, actas de titularidad real, etcétera.
-
+      <strong>Textos técnicos</strong>: herramientas, automoción, maquinaria, sistemas de automatización y electrónica, turismo, ingeniería mecánica, informática (IT), telecomunicaciones, software, tecnología de empaquetado, electrodomésticos, industria del papel y de la impresión, aparatología médica, localización de páginas web y de software, etcétera.
+    paragraph2: >-
+      <strong>Géneros textuales</strong>: manuales de instrucciones, catálogos, especificaciones, documentación del producto y de su mantenimiento, materiales para formación, folletos, publicidad, interfaces de software, aplicaciones (<i>apps</i>), páginas web.
   service2:
+    heading: Traducción económica y financiera
+    paragraph1: >-
+      <strong>Textos económicos</strong>: relaciones comerciales entre empresas, comercio internacional, fiscalidad, etc.
+    paragraph2: >-
+      <strong>Géneros textuales</strong>: contratos mercantiles, documentos de transporte y otros.
+    paragraph3: >-
+      <strong>Textos financieros</strong>: economía de la empresa, información empresarial, contabilidad, operaciones comerciales, mercados financieros, financiación de la empresa y banca, entre otros.
+    paragraph4: >-
+      <strong>Géneros textuales</strong>: estados financieros, préstamos, mercados de capitales, productos bancarios, actas de titularidad real, etcétera.
+
+  service3:
     heading: Revisión
     paragraph1: >-
       Un texto con incorrecciones o faltas perjudica tu imagen.
