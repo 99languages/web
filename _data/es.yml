@@ -41,11 +41,11 @@ aboutme:
 services:
   section-heading: Servicios
   # section-subheading: >-
-  paragraph1: >-
-    Traducimos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
-    Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.    
   service0:
-    heading: Traducción de documentos
+    heading: <br>Traducción de documentos
+    paragraph1: >-
+    <br>Traducimos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
+    Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.
   service1:
     heading: Traducción técnica
     paragraph1: >-
