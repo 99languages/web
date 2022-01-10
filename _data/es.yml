@@ -44,7 +44,7 @@ services:
     Soy <a href="#aboutme" class="page-scroll">Cristian Marcote</a>, traductor y revisor. Traduzco, reviso y localizo documentos técnicos, económicos y financieros del <strong>inglés y el alemán</strong> al español y gallego, así como entre estos dos últimos idiomas.
   service1:
     heading: Traducción de documentos
-    paragraph1: |
+    paragraph1: >-
       Traducimos y localizamos <strong>textos en distintos campos de especialización utilizando herramientas de traducción profesionales</strong>; esto nos permite alcanzar estándares elevados de consistencia y calidad.
       Tenemos amplia experiencia en la <strong>traducción de todo tipo de documentos</strong>. Estamos especializados en la traducción técnica, económica y financiera.
 
