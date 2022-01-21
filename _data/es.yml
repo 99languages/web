@@ -5,10 +5,12 @@ description: >-
   (EN/DE&gt;ES/GL y ES&lt;&gt;GL). Estamos especializados en traducción y revisión técnica, económica y financiera…
 
 keywords: >-
-  traducción, localización, revisión, transcripción audio,
-  transcripción vídeo, inglés, alemán, español, castellano, gallego,
-  traducción técnica, localización software, localización páginas web,
-  localización web, localización sitios web
+  traducción, localización, revisión,
+  inglés, alemán, español, castellano, gallego,
+  traducción técnica, traducción económica, traducción financiera, banca, finanzas,
+  estados financieros, traductor español, traducción especializada,
+  localización software, localización páginas web, localización web, localización sitios web,
+  
 
 nav:
   aboutme: Quién soy
@@ -16,7 +18,7 @@ nav:
   team: Equipo
   contact: Contacto
 header:
-  intro-lead-in: Bienvenido a 99languages
+  intro-lead-in: Bienvenido/a a 99languages
   intro-heading: Acercamos personas y llevamos tus palabras lejos
   intro-button: ¿Cómo podemos ayudarte?
   
@@ -37,7 +39,8 @@ aboutme:
     paragraph4: >-
       Sin traducción, no hay emoción.
   contact: >-
-      Conóceme mejor: visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.  
+      Conóceme mejor: visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br>
+      También soy miembro profesional de la Asociación Galega de Profesionais da Tradución e da Interpretación, la <a href="https://www.agpti.org/profesional/cristian-marcote/" target="blank_">AGPTI</a>.<br>
 services:
   section-heading: Servicios
   # section-subheading: >-
