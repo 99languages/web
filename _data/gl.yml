@@ -1,8 +1,17 @@
 title: '99languages: servizos de tradución e revisión'
+
 description: >-
-  Tradución e revisión de inglés e alemán a español e galego (EN/DE&gt;ES/GL e ES&lt;&gt;GL). Estamos especializados en tradución e revisión técnica, económica e financeira…
+  Tradución e revisión de inglés e alemán a español e galego
+  (EN/DE&gt;ES/GL e ES&lt;&gt;GL). Estamos especializados en tradución e revisión técnica, económica e financeira…
+  
 keywords: >-
-  tradución, localización, revisión, inglés, alemán, español, castelán, galego, tradución técnica, tradución económica, tradución financeira, banca, finanzas, estados financeiros, tradutor español, tradución especializada, localización software, localización páxinas web, localización web, localización sitios web,
+  tradución, localización, revisión,
+  inglés, alemán, español, castelán, galego,
+  tradución técnica, tradución económica, tradución financeira, banca, finanzas,
+  estados financeiros, tradutor español, tradución especializada,
+  localización software, localización páxinas web, localización web, localización sitios web,
+
+
 nav:
   aboutme: Quen son
   services: Servizos
@@ -12,16 +21,17 @@ header:
   intro-lead-in: Benvido/a a 99languages
   intro-heading: Achegamos persoas e levamos as túas palabras lonxe
   intro-button: En que podemos axudarte?
+  
 aboutme:
   section-heading: Quen son
   section-subheading: |
     Son un profesional comprometido coa calidade do meu traballo.<br>
     Entrego as encomendas nos prazos acordados.<br>
     Satisfago as expectativas dos meus clientes.
-  cristian
-  # headline: Traductor y revisor autónomo ❖ Creador de 99languages
-:
-    paragraph1: "Son <a href=\"https://www.linkedin.com/in/cmarcote/\" class=\"blank\">Cristian Marcote</a>, tradutor, revisor e creador de 99languages. Traslado a túa documentación técnica e mais económica do inglés e alemán ao español e galego. "
+  cristian:
+   #headline: Traductor y revisor autónomo ❖ Creador de 99languages
+    paragraph1: >-
+      "Son <a href=\"https://www.linkedin.com/in/cmarcote/\" class=\"blank\">Cristian Marcote</a>, tradutor, revisor e creador de 99languages. Traslado a túa documentación técnica e mais económica do inglés e alemán ao español e galego. "
     paragraph2: >-
       A tradución posibilita o diálogo, fomenta o comercio internacional e permite chegar ao corazón das persoas. Se cada mercado é un mundo, cada cultura é un universo paralelo co seu idioma particular.
     paragraph3: >-
@@ -29,14 +39,16 @@ aboutme:
     paragraph4: >-
       Sen tradución non hai emoción.
   contact: >-
-    Coñéceme mellor: visita os meus perfís profesionais en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> e <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br> Tamén son membro profesional da Asociación Galega de Profesionais da Tradución e da Interpretación, a <a href="https://www.agpti.org/profesional/cristian-marcote/" target="blank_">AGPTI</a>.<br>
+    Coñéceme mellor: visita os meus perfís profesionais en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> e <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br>
+    Tamén son membro profesional da Asociación Galega de Profesionais da Tradución e da Interpretación, a <a href="https://www.agpti.org/profesional/cristian-marcote/" target="blank_">AGPTI</a>.<br>
 services:
   section-heading: Servizos
   # section-subheading: >-
   service0:
     heading: <br>Tradución de documentos
     paragraph1: >-
-      <br>Traducimos <strong>textos en distintos eidos de especialización empregando ferramentas de tradución profesionais</strong>; isto permítenos acadar estándares elevados de consistencia e calidade. Temos ampla experiencia na <strong>tradución de todo tipo de documentos</strong>. Estamos especializados na tradución técnica, económica e financeira.
+      <br>Traducimos <strong>textos en distintos eidos de especialización empregando ferramentas de tradución profesionais</strong>; isto permítenos acadar estándares elevados de consistencia e calidade.
+      Temos ampla experiencia na <strong>tradución de todo tipo de documentos</strong>. Estamos especializados na tradución técnica, económica e financeira.
   service1:
     heading: Tradución técnica
     paragraph1: >-
@@ -53,6 +65,7 @@ services:
       <strong>Textos financeiros</strong>: economía da empresa, información empresarial, contabilidade, operacións comerciais, mercados financeiros, financiamento da empresa e banca, entre outros.
     paragraph4: >-
       <strong>Xéneros textuais</strong>: estados financeiros, préstamos, mercados de capitais, produtos bancarios, actas de titularidade real etc.
+
   service3:
     heading: Revisión
     paragraph1: >-
@@ -70,7 +83,8 @@ services:
     # paragraph2: >-
     # <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
-    Precisas outras combinacións de linguas?<br> <a href="#contact" class="page-scroll">Escríbenos</a>. Axudámoste!
+    Precisas outras combinacións de linguas?<br>
+    <a href="#contact" class="page-scroll">Escríbenos</a>. Axudámoste!
 milestones:
   words: palabras
   sap:
@@ -105,7 +119,8 @@ team:
 contact:
   section-heading: Contacto
   section-subheading: >-
-    Tes algunha pregunta? Queres un orzamento?<br> Ponte en contacto connosco. Responderémoste o antes posible.
+    Tes algunha pregunta? Queres un orzamento?<br>
+    Ponte en contacto connosco. Responderémoste o antes posible.
   # form:
   # name:
   # placeholder: Nombre y apellidos
@@ -129,9 +144,8 @@ contact:
   # Lo sentimos, pero parece que el servidor no responde. Vuelve a intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
   # note: >-
   # Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
-footer
+footer:
 # subsidy: Ayudas a la promoción del empleo autónomo
-: ''
 cookieconsent:
   message: >-
     Este sitio web utiliza <i>cookies</i> para garantir a mellor experiencia posible. De continuar navegando, estarás aceptando implicitamente que fagamos uso das devanditas <i>cookies</i>.

@@ -1,8 +1,17 @@
 title: '99languages: translation and editing services'
+
 description: >-
-  Translation and editing from English and German into Spanish and Galician (EN/DE&gt;ES/GL and ES&lt;&gt;GL). We specialise in technical, economic and financial translation and editing…
+  Translation and editing from English and German into Spanish and Galician
+  (EN/DE&gt;ES/GL and ES&lt;&gt;GL). We specialise in technical, economic and financial translation and editing…
+  
 keywords: >-
-  translation, localisation, revision, editing, proofreading, English, German, Spanish, Castilian Spanish, Galician, technical translation, economic translation, financial translation, banking, finance, financial statements, Spanish translator, specialised translation, software localisation, website localisation, web localisation,
+  translation, localisation, revision, editing, proofreading,
+  English, German, Spanish, Castilian Spanish, Galician,
+  technical translation, economic translation, financial translation, banking, finance,
+  financial statements, Spanish translator, specialised translation,
+  software localisation, website localisation, web localisation,
+  
+  
 nav:
   aboutme: About me
   services: Services
@@ -12,16 +21,17 @@ header:
   intro-lead-in: Welcome to 99languages
   intro-heading: We bring people closer by taking your words further
   intro-button: How can we help you?
+  
 aboutme:
   section-heading: About me
   section-subheading: |
     I am a professional with commitment towards quality.<br>
     I meet agreed deadlines.<br>
     I satisfy my clients’ expectations.
-  cristian
+  cristian:
   # headline: Traductor y revisor autónomo ❖ Creador de 99languages
-:
-    paragraph1: "I am <a href=\"https://www.linkedin.com/in/cmarcote/\" class=\"blank\">Cristian Marcote</a>, translator, revisor and founder of 99languages. I translate your technical documentation, as well as your economic-related documents from English and German into Spanish and Galician. "
+    paragraph1: >-
+      I am <a href=\"https://www.linkedin.com/in/cmarcote/\" class=\"blank\">Cristian Marcote</a>, translator, revisor and founder of 99languages. I translate your technical documentation, as well as your economic-related documents from English and German into Spanish and Galician.
     paragraph2: >-
       Translation enables dialog, fosters international business and makes it possible to touch people's hearts. Every market presents its own challenges, and so does every cuture and language in the world.
     paragraph3: >-
@@ -29,14 +39,16 @@ aboutme:
     paragraph4: >-
       Without translation, "connection" is an empty concept.
   contact: >-
-    Get to know me better: visit my professional profiles at <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> and <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br> I am also member of the Galician professional translators’ association “Asociación Galega de Profesionais da Tradución e da Interpretación”, the <a href="https://www.agpti.org/profesional/cristian-marcote/" target="blank_">AGPTI</a>.<br>
+    Get to know me better: visit my professional profiles at <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> and <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br>
+    I am also member of the Galician professional translators’ association “Asociación Galega de Profesionais da Tradución e da Interpretación”, the <a href="https://www.agpti.org/profesional/cristian-marcote/" target="blank_">AGPTI</a>.<br>
 services:
   section-heading: Our services
   # section-subheading: >-
   service0:
     heading: <br>Translation of documents
     paragraph1: >-
-      <br>We translate <strong>texts in different areas of expertise using professional translation tools</strong>. This makes it possible to achieve a high degree of consistency and quality. We have extensive experience <strong>translating all kinds of documents</strong>. We specialise in technical, economic and financial translation.
+      <br>We translate <strong>texts in different areas of expertise using professional translation tools</strong>. This makes it possible to achieve a high degree of consistency and quality.
+      We have extensive experience <strong>translating all kinds of documents</strong>. We specialise in technical, economic and financial translation.
   service1:
     heading: Technical translation
     paragraph1: >-
@@ -53,6 +65,7 @@ services:
       <strong>Finance-related texts</strong>: business economy, corporate information, accounting, business operations or commercial transactions, financial markets, corporate funding and banking, among other texts.
     paragraph4: >-
       <strong>Textual genres</strong>: financial statements, loans, equity markets, banking products, beneficial owner records, etcetera.
+
   service3:
     heading: Revision
     paragraph1: >-
@@ -70,7 +83,8 @@ services:
     # paragraph2: >-
     # <strong>Géneros de audio y audiovisuales</strong>: entrevistas, discursos, diálogos, formación, presentaciones, conferencias, publicidad.
   contact: >-
-    Do you need other language combinations?<br> <a href="#contact" class="page-scroll">Contact us</a>. We are happy to help you!
+    Do you need other language combinations?<br>
+    <a href="#contact" class="page-scroll">Contact us</a>. We are happy to help you!
 milestones:
   words: words
   sap:
@@ -105,7 +119,8 @@ team:
 contact:
   section-heading: Contact us
   section-subheading: >-
-    Do you have any question? Do you need a quotation?<br> Contact us. We will get back to you as soon as possible.
+    Do you have any question? Do you need a quotation?<br>
+    Contact us. We will get back to you as soon as possible.
   # form:
   # name:
   # placeholder: Nombre y apellidos
@@ -129,9 +144,8 @@ contact:
   # Lo sentimos, pero parece que el servidor no responde. Vuelve a intentarlo más tarde o escríbenos a <strong>info@99languages.es</strong>.
   # note: >-
   # Ten en cuenta que, para elaborar el presupuesto, es necesario que indiques en qué servicios estás interesado, los idiomas de origen y de destino, y que envíes los archivos correspondientes. ¡Gracias!
-footer
+footer:
 # subsidy: Ayudas a la promoción del empleo autónomo
-: ''
 cookieconsent:
   message: >-
     This website uses cookies to ensure you get the best experience. By continuing to browse the site you are agreeing to our use of cookies.
