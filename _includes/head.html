@@ -1,4 +1,13 @@
 <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5ZQYP556XG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5ZQYP556XG');
+</script>
     {%- assign _ = site.data.[page.lang] -%}
 
     {%- capture title %}{% if page.title %}{{ page.title[page.lang] }}{% else %}{{ _.title }}{% endif %}{%- endcapture %}
