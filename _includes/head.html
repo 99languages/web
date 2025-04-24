@@ -47,6 +47,13 @@
     <meta name="twitter:site" content="{{ site.twitter }}" />
     <meta name="twitter:creator" content="{{ site.twitter }}" />
     <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+    
+    {% if page.permalink contains 'cmvirtuals' %}
+      <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}/es/cmvirtuals/" />
+      <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/en/cmvirtuals/" />
+      <link rel="alternate" hreflang="de" href="{{ site.url }}{{ site.baseurl }}/de/cmvirtuals/" />
+      <link rel="alternate" hreflang="gl" href="{{ site.url }}{{ site.baseurl }}/gl/cmvirtuals/" />
+    {% endif %}
 
     {% if page.base %}
         <script>
