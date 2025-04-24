@@ -29,6 +29,15 @@
                         {{ _.nav.services }}
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a 
+                        class="nav-link" 
+                        href="{% if page.lang == 'es' %}/cmvirtuals/{% else %}/{{ page.lang }}/cmvirtuals/{% endif %}"
+                        >
+                        {{ site.data.translations[page.lang].virtual_assistant }}
+                    </a>
+                </li>
+
                 <li>
                     <a class="page-scroll" href="#team">
                         {{ _.nav.team }}
