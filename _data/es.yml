@@ -18,7 +18,7 @@ nav:
   team: Equipo
   contact: Contacto
 header:
-  intro-lead-in: Bienvenido/a a 99languages
+  intro-lead-in: Te damos la bienvenida a a 99languages
   intro-heading: Acercamos personas y llevamos tus palabras lejos
   intro-button: ¿Cómo podemos ayudarte?
   
@@ -31,7 +31,7 @@ aboutme:
   cristian:
     #headline: Traductor y revisor autónomo ❖ Creador de 99languages
     paragraph1: >-
-      Soy <a href="https://www.linkedin.com/in/cmarcote/" class="blank">Cristian Marcote</a>, traductor, revisor y creador de 99languages. Traslado tu documentación técnica y económica del inglés y alemán al español y gallego. 
+      Soy <a href="https://www.linkedin.com/in/cristian-marcote/" class="blank">Cristian Marcote</a>, traductor, revisor y creador de 99languages. Traslado tu documentación técnica y económica del inglés y alemán al español y gallego. 
     paragraph2: >-
       La traducción posibilita el diálogo, fomenta el comercio internacional y permite llegar al corazón de las personas. Si cada mercado es un mundo, cada cultura es un universo paralelo con su idioma particular.
     paragraph3: >-
@@ -39,7 +39,7 @@ aboutme:
     paragraph4: >-
       Sin traducción, no hay emoción.
   contact: >-
-      Conóceme mejor: visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cmarcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br>
+      Conóceme mejor: visita mis perfiles profesionales en <a href="https://www.linkedin.com/in/cristian-marcote/" target="blank_">LinkedIn</a> y <a href="https://www.proz.com/profile/2022019" target="blank_">ProZ</a>.<br>
       También soy miembro profesional de la Asociación Galega de Profesionais da Tradución e da Interpretación, la <a href="https://www.agpti.org/profesional/cristian-marcote/" target="blank_">AGPTI</a>.<br>
 services:
   section-heading: Servicios
