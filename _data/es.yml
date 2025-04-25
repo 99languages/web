@@ -17,6 +17,7 @@ nav:
   services: Servicios
   team: Equipo
   contact: Contacto
+  virtual_assistant: Asistente virtual
 header:
   intro-lead-in: Te damos la bienvenida a a 99languages
   intro-heading: Acercamos personas y llevamos tus palabras lejos
@@ -150,4 +151,3 @@ cookieconsent:
   message: >-
     Este sitio web utiliza <i>cookies</i> para garantizar la mejor experiencia posible. Si continúas navegando, estarás aceptando implícitamente que hagamos uso de dichas <i>cookies</i>.
   dismiss: De acuerdo
-virtual_assistant: "Asistente Virtual"

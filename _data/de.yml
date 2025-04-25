@@ -4,6 +4,7 @@ description: >-
 keywords: >-
   Übersetzung, Lokalisierung, Lektorat, Korrektorat, Audiotranskription, Videotranskription, Transkription Audioaufzeichnungen, Transkription Videoaufzeichnungen, Englisch, Deutsch, Spanisch, Galicisch, technische Übersetzung, Fachübersetzung, Softwarelokalisierung, Lokalisierung, Websitelokalisierung
 nav:
+  aboutme: Über mich
   services: Dienstleistungen
   team: Team
   contact: Kontakt
@@ -11,6 +12,14 @@ header:
   intro-lead-in: Willkommen auf 99languages
   intro-heading: Wir bringen Ihre Worte weiter
   intro-button: Wie können wir Ihnen helfen?
+
+aboutme:
+  section-heading: Über mich
+  section-subheading: |
+    Als Profi Qualität ist mir wichtig.<br>
+    Ich halte Termine  ein.<br>
+    Ich erfühle die Erwartungen meiner Kunden.
+  
 services:
   section-heading: Dienstleistungen
   section-subheading: >-
